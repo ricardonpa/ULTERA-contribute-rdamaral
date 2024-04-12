@@ -5,3 +5,51 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,compressive yield strength,EXP,None,298,1037000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1192000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1230000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1265000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1293000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1317000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,A,isothermal annealing at 1673 K for 12 h,compressive yield strength,EXP,None,298,942000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1115000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1194000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1218000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1279000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,None,298,1337000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,ultimate compressive strength,EXP,None,298,2568000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2417000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2700000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2629000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2631000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2584000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,A,isothermal annealing at 1673 K for 12 h,ultimate compressive strength,EXP,None,298,1720000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2044000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2742000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2646000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2673000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,ultimate compressive strength,EXP,None,298,2799000000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,compressive ductility,EXP,None,298,42.7,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,37.8,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,41.7,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,38.1,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,36.9,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,31.9,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,A,isothermal annealing at 1673 K for 12 h,compressive ductility,EXP,None,298,25.0,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,36.7,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,41.1,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,39.7,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,31.1,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,compressive ductility,EXP,None,298,31.0,None,%,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,hardness,EXP,None,298,3952221000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4354308000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4511220000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4658325000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4805430000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4962342000.000001,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,A,isothermal annealing at 1673 K for 12 h,hardness,EXP,None,298,3481485000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.05,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4148361000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.10,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4354308000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4599483000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4785816000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,5040798000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
