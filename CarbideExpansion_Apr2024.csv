@@ -53,3 +53,21 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4599483000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
 1,Hf0.25 Nb Ta W0.5 C0.20,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,4785816000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
 1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,A,isothermal annealing at 1673 K for 12 h; Authors claim (NbTaHf)C FCC-type,hardness,EXP,None,298,5040798000.0,None,Pa,T3,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,estimated compressive ductility,EXP,strain rate 1e-3,1273,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,estimated compressive ductility,EXP,strain rate 1e-3,1473,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,estimated compressive ductility,EXP,strain rate 1e-3,1673,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,estimated compressive ductility,EXP,strain rate 1e-3,1273,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,estimated compressive ductility,EXP,strain rate 1e-3,1473,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,estimated compressive ductility,EXP,strain rate 1e-3,1673,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,estimated compressive ductility,EXP,strain rate 1e-3,1273,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,estimated compressive ductility,EXP,strain rate 1e-3,1473,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,estimated compressive ductility,EXP,strain rate 1e-3,1673,50.0,None,%,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1273,584000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1473,577000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1673,455000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,strain rate 1e-3,1273,768000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,strain rate 1e-3,1473,733000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.15,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,strain rate 1e-3,1673,639000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,strain rate 1e-3,1273,868000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,strain rate 1e-3,1473,792000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
+1,Hf0.25 Nb Ta W0.5 C0.25,BCC+carbide,AC,Authors claim (NbTaHf)C FCC-type,compressive yield strength,EXP,strain rate 1e-3,1673,749000000.0,None,Pa,T4,10.1016/j.jmst.2021.05.015
