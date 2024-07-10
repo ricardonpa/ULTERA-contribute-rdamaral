@@ -49,7 +49,7 @@ def convert(datasheet: str):
 
     print('Imported ' + str(len(data)) + ' datapoints.')
 
-    with open(dataFileName + '.csv', 'w+') as outFile:
+    with open('contributions/' + dataFileName + '.csv', 'w+') as outFile:
         # Write the metadata
         for line, val in metaData.items():
             outFile.write(line + ':,' + str(val) + '\n')

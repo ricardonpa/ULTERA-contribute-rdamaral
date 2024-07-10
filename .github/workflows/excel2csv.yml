@@ -15,18 +15,22 @@ jobs:
         with:
           python-version: '3.10'
           cache: 'pip'
-          cache-dependency-path: 'pyqalloy-contribute/requirements.txt'
+          cache-dependency-path: 'contributions/pyqalloy-contribute/requirements.txt'
 
       - name: Install Dependencies
         run: |
-          python -m pip install -r pyqalloy-contribute/requirements.txt
+          python -m pip install -r contributions/pyqalloy-contribute/requirements.txt
 
       - name: Run excel2csv
         run: |
-          python pyqalloy-contribute/pyqalloy-contribute/excel2csv.py .
+          python contributions/pyqalloy-contribute/excel2csv.py .
+
+      - name: Run csv2readme
+        run: |
+          python contributions/pyqalloy-contribute/csv2readme.py .
 
       - name: Commit changes with Add & Commit
         uses: EndBug/add-and-commit@v9
         with:
-          message: '(automatic) excel2csv Action for Data Tracking'
-          add: '*.csv'
+          message: '(automatic) excel2csv and csv2readme Action for Data Tracking'
+          add: '*.csv *.md'
