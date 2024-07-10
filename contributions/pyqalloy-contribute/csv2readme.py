@@ -12,7 +12,7 @@ def writeReadme(path: str):
     line_counts = []
 
     # Iterate over all files in the path
-    for filename in os.listdir(path + '/contributions'):
+    for filename in os.listdir(path):
         if filename.endswith('.csv'):
             # Construct full file path
             filepath = os.path.join(path, filename)
@@ -99,4 +99,4 @@ def writeReadme(path: str):
         file.write(readme)
 
 if __name__ == '__main__':
-    writeReadme(sys.argv[1])
+    writeReadme(sys.argv[1] + '/contributions')
