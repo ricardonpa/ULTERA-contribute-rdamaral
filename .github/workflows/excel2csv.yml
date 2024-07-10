@@ -33,9 +33,12 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
+            const commitSha = context.sha;
+            const repoName = context.repo.repo;
+            const commentBody = `@rdamaral: New ULTERA contribution on ${repoName} (${commitSha})`;
             github.rest.repos.createCommitComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              commit_sha: context.sha,
-              body: 'New contribution @rdamaral'
+              commit_sha: commitSha,
+              body: commentBody
             });
