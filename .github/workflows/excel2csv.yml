@@ -29,8 +29,13 @@ jobs:
         run: |
           python contributions/pyqalloy-contribute/csv2readme.py .
 
-      - name: Commit changes with Add & Commit
-        uses: EndBug/add-and-commit@v9
+      - name: Comment on commit
+        uses: actions/github-script@v6
         with:
-          message: '(automatic) excel2csv and csv2readme Action for Data Tracking'
-          add: '*.csv *.md'
+          script: |
+            github.rest.repos.createCommitComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              commit_sha: context.sha,
+              body: 'New contribution @rdamaral'
+            });
