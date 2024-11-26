@@ -40,13 +40,12 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { owner, repo } = context.repo;
             const issueTitle = "New ULTERA Contribution";
-            const issueBody = `@PhasesResearchLab/ultera-maintainers: New ULTERA contribution on repository: ${owner}/${repo} (Commit: ${context.sha})`;
+            const issueBody = `@PhasesResearchLab/ultera-maintainers: New ULTERA contribution on repository: ${context.repo.owner}/${context.repo.repo} (Commit: ${context.sha})`;
             const issueLabels = ["new contribution"];
-            await github.issues.create({
-              owner,
-              repo,
+            await github.rest.issues.create({
+              owner: "PhasesResearchLab",
+              repo: "ULTERA-contribute",
               title: issueTitle,
               body: issueBody,
               labels: issueLabels
