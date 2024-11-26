@@ -35,14 +35,22 @@ jobs:
             .github/excel2csv/*.csv
             README.md
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+      - name: Notify watchers
+        uses: actions/github-script@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: '(automatic) `postcommit` Action for Data Tracking'
-          branch: postcommit-changes
-          base: main
-          push-to-fork: true
-          title: 'New ULTERA Contribution'
-          body: 'New ULTERA contribution on repository: ${{ github.repository }} (Commit: ${{ github.sha }})'
-          labels: new contribution
+          script: |
+            const watchers = await github.rest.activity.listWatchersForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo
+            });
+            
+            const watcherMentions = watchers.data
+              .map(watcher => '@' + watcher.login)
+              .join(' ');
+            
+            await github.rest.repos.createCommitComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              commit_sha: context.sha,
+              body: `New ULTERA contribution detected!\n${watcherMentions}`
+            });
