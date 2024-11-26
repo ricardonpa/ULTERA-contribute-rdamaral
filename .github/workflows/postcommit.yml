@@ -41,6 +41,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: '(automatic) `postcommit` Action for Data Tracking'
           branch: postcommit-changes
+          base: main
+          head: ${{ github.repository }}:postcommit-changes
           title: 'New ULTERA Contribution'
           body: 'New ULTERA contribution on repository: ${{ github.repository }} (Commit: ${{ github.sha }})'
           labels: new contribution
