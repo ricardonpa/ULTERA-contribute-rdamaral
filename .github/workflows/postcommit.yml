@@ -35,11 +35,9 @@ jobs:
             .github/excel2csv/*.csv
             README.md
 
-      - name: Create Issue Notification
-        uses: peter-evans/create-issue-from-file@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: PhasesResearchLab/ULTERA-contribute
-          title: New ULTERA Contribution
-          content-filepath: .github/ISSUE_TEMPLATE.md
-          labels: new contribution
+      - name: Create Commit Comment
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/commits/${{ github.sha }}/comments \
+          -d '{"body":"@PhasesResearchLab/ultera-maintainers: New ULTERA contribution on repository: ${{ github.repository }} (Commit: ${{ github.sha }})"}'
