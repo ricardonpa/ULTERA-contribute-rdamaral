@@ -40,18 +40,16 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { owner, repo } = context.repo;
-            const head = `${owner}:${context.ref.replace('refs/heads/', '')}`;
+            const { context, github } = require('@actions/github');
+            const head = `${context.repo.owner}:${context.ref.replace('refs/heads/', '')}`;
             const base = 'main';
             const title = 'New ULTERA Contribution';
             const body = `New ULTERA contribution on repository: ${context.repo.owner}/${context.repo.repo} (Commit: ${context.sha})`;
-            const labels = ['new contribution'];
-            await github.pulls.create({
+            await github.rest.pulls.create({
               owner: 'PhasesResearchLab',
               repo: 'ULTERA-contribute',
               title,
               head,
               base,
-              body,
-              labels
+              body
             });
