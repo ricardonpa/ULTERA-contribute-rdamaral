@@ -36,13 +36,22 @@ jobs:
             README.md
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        uses: actions/github-script@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: '(automatic) `postcommit` Action for Data Tracking'
-          branch: postcommit-changes
-          base: main
-          push-to-fork: PhasesResearchLab/ULTERA-contribute
-          title: 'New ULTERA Contribution'
-          body: 'New ULTERA contribution on repository: ${{ github.repository }} (Commit: ${{ github.sha }})'
-          labels: new contribution
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const head = `${owner}:${context.ref.replace('refs/heads/', '')}`;
+            const base = 'main';
+            const title = 'New ULTERA Contribution';
+            const body = `New ULTERA contribution on repository: ${context.repo.owner}/${context.repo.repo} (Commit: ${context.sha})`;
+            const labels = ['new contribution'];
+            await github.pulls.create({
+              owner: 'PhasesResearchLab',
+              repo: 'ULTERA-contribute',
+              title,
+              head,
+              base,
+              body,
+              labels
+            });
