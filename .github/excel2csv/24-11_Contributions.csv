@@ -1,0 +1,175 @@
+Name:,Ricardo Amaral
+Email:,rna5137@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,Co Cr Fe Ni,FCC,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile yield strength,EXP,strain rate 1e-3,298,160000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Mo0.4,FCC,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile yield strength,EXP,strain rate 1e-3,298,420000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.1 Mo0.3,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile yield strength,EXP,strain rate 1e-3,298,426000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.2 Mo0.2,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile yield strength,EXP,strain rate 1e-3,298,510000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.3 Mo0.1,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile yield strength,EXP,strain rate 1e-3,298,692000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.4,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile yield strength,EXP,strain rate 1e-3,298,618000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni,FCC,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile fracture strength,EXP,strain rate 1e-3,298,368000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Mo0.4,FCC,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile fracture strength,EXP,strain rate 1e-3,298,646000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.1 Mo0.3,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile fracture strength,EXP,strain rate 1e-3,298,714000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.2 Mo0.2,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile fracture strength,EXP,strain rate 1e-3,298,763000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.3 Mo0.1,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile fracture strength,EXP,strain rate 1e-3,298,894000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.4,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile fracture strength,EXP,strain rate 1e-3,298,645000000.0,None,Pa,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni,FCC,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile ductility,EXP,strain rate 1e-3,298,65.0,None,%,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Mo0.4,FCC,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile ductility,EXP,strain rate 1e-3,298,24.1,None,%,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.1 Mo0.3,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile ductility,EXP,strain rate 1e-3,298,17.4,None,%,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.2 Mo0.2,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile ductility,EXP,strain rate 1e-3,298,10.0,None,%,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.3 Mo0.1,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile ductility,EXP,strain rate 1e-3,298,7.5,None,%,T2,10.1016/j.msea.2021.142153
+1,Co Cr Fe Ni Nb0.4,FCC+Laves,AC,Arc-melted. Re-melted five times to ensure homogeneity,tensile ductility,EXP,strain rate 1e-3,298,4.4,None,%,T2,10.1016/j.msea.2021.142153
+2,Fe Mn Cr Co Ni B0.00003,FCC,H+ST+CW+A+WQ,Homogenized at 1100 C for 360 min, pickled in a 20% HCl solution, and milled to a thickness of 7 mm. Grain reﬁnement achieved through cold-rolling (thickness reduction ratio of 75%). Annealed at a temperature of 800 C for 60 min and subsequently quenched in water.,tensile yield strength,EXP,strain rate 1e-3,298,630000000.0,None,Pa,P369,10.1016/j.actamat.2018.04.004
+2,Fe40 Mn40 Cr10 Co10 B0.00003,FCC,H+ST+CW+A+WQ,Homogenized at 1100 C for 360 min, pickled in a 20% HCl solution, and milled to a thickness of 7 mm. Grain reﬁnement achieved through cold-rolling (thickness reduction ratio of 75%). Annealed at a temperature of 800 C for 60 min and subsequently quenched in water.,tensile yield strength,EXP,strain rate 1e-3,298,450000000.0,None,Pa,P369,10.1016/j.actamat.2018.04.004
+2,Fe Mn Cr Co Ni B0.00003,FCC,H+ST+CW+A+WQ,Homogenized at 1100 C for 360 min, pickled in a 20% HCl solution, and milled to a thickness of 7 mm. Grain reﬁnement achieved through cold-rolling (thickness reduction ratio of 75%). Annealed at a temperature of 800 C for 60 min and subsequently quenched in water.,ultimate tensile strength,EXP,strain rate 1e-3,298,920000000.0,None,Pa,P370,10.1016/j.actamat.2018.04.004
+2,Fe40 Mn40 Cr10 Co10 B0.00003,FCC,H+ST+CW+A+WQ,Homogenized at 1100 C for 360 min, pickled in a 20% HCl solution, and milled to a thickness of 7 mm. Grain reﬁnement achieved through cold-rolling (thickness reduction ratio of 75%). Annealed at a temperature of 800 C for 60 min and subsequently quenched in water.,ultimate tensile strength,EXP,strain rate 1e-3,298,880000000.0,None,Pa,P370,10.1016/j.actamat.2018.04.004
+2,Fe Mn Cr Co Ni B0.00003,FCC,H+ST+CW+A+WQ,Homogenized at 1100 C for 360 min, pickled in a 20% HCl solution, and milled to a thickness of 7 mm. Grain reﬁnement achieved through cold-rolling (thickness reduction ratio of 75%). Annealed at a temperature of 800 C for 60 min and subsequently quenched in water.,tensile ductility,EXP,strain rate 1e-3,298,52.0,None,%,P370,10.1016/j.actamat.2018.04.004
+2,Fe40 Mn40 Cr10 Co10 B0.00003,FCC,H+ST+CW+A+WQ,Homogenized at 1100 C for 360 min, pickled in a 20% HCl solution, and milled to a thickness of 7 mm. Grain reﬁnement achieved through cold-rolling (thickness reduction ratio of 75%). Annealed at a temperature of 800 C for 60 min and subsequently quenched in water.,tensile ductility,EXP,strain rate 1e-3,298,73.0,None,%,P370,10.1016/j.actamat.2018.04.004
+3,Al0.1 Cr Nb V Mo,BCC,SPS,12 h ball milled at 200 rpm. SPS at 50 MPa and 1200 C. During SPS, powders were heated to 600 C within 1 min, and from 600 C to 1200 C, heating rates of 100 C/min were applied followed by 5 min of holding time at 1200 C.,compressive yield strength,EXP,strain rate 1e-3,298,2544000000.0,None,Pa,F4,10.1016/j.ijrmhm.2021.105636 
+3,Al0.1 Cr Nb V Mo B0.015,BCC,SPS,12 h ball milled at 200 rpm. SPS at 50 MPa and 1200 C. During SPS, powders were heated to 600 C within 1 min, and from 600 C to 1200 C, heating rates of 100 C/min were applied followed by 5 min of holding time at 1200 C.,compressive yield strength,EXP,strain rate 1e-3,289,2933000000.0,None,Pa,F4,10.1016/j.ijrmhm.2021.105636 
+3,Al0.1 Cr Nb V Mo,BCC,SPS,12 h ball milled at 200 rpm. SPS at 50 MPa and 1200 C. During SPS, powders were heated to 600 C within 1 min, and from 600 C to 1200 C, heating rates of 100 C/min were applied followed by 5 min of holding time at 1200 C.,compressive fracture strength,EXP,strain rate 1e-3,298,3726000000.0,None,Pa,F4,10.1016/j.ijrmhm.2021.105636 
+3,Al0.1 Cr Nb V Mo B0.015,BCC,SPS,12 h ball milled at 200 rpm. SPS at 50 MPa and 1200 C. During SPS, powders were heated to 600 C within 1 min, and from 600 C to 1200 C, heating rates of 100 C/min were applied followed by 5 min of holding time at 1200 C.,compressive fracture strength,EXP,strain rate 1e-3,289,4281000000.0,None,Pa,F4,10.1016/j.ijrmhm.2021.105636 
+3,Al0.1 Cr Nb V Mo,BCC,SPS,12 h ball milled at 200 rpm. SPS at 50 MPa and 1200 C. During SPS, powders were heated to 600 C within 1 min, and from 600 C to 1200 C, heating rates of 100 C/min were applied followed by 5 min of holding time at 1200 C.,compressive ductility,EXP,strain rate 1e-3,298,20.5,None,%,F4,10.1016/j.ijrmhm.2021.105636 
+3,Al0.1 Cr Nb V Mo B0.015,BCC,SPS,12 h ball milled at 200 rpm. SPS at 50 MPa and 1200 C. During SPS, powders were heated to 600 C within 1 min, and from 600 C to 1200 C, heating rates of 100 C/min were applied followed by 5 min of holding time at 1200 C.,compressive ductility,EXP,strain rate 1e-3,298,25.9,None,%,F4,10.1016/j.ijrmhm.2021.105636 
+4,Mo0.5 Nb1.5 Hf0.5 Zr Ti1.5 Al0.2 Cr0.2 Si0.75,BCC+M5Si3,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1794000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo0.5 Nb1.5 Hf0.5 Zr Ti1.5 Al0.2 Cr0.2 Si0.75,BCC+M5Si3,AC,None,ultimate compressive strength,EXP,strain rate 1e-3,298,2146000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo0.5 Nb1.5 Hf0.5 Zr Ti1.5 Al0.2 Cr0.2 Si0.75,BCC+M5Si3,AC,None,compressive ductility,EXP,strain rate 1e-3,298,10.6,None,%,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo0.5 Nb1.5 Hf0.5 Zr Ti1.5 Al0.5 Cr0.5 B0.3 C0.05,BCC+MB2,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1821000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo0.5 Nb1.5 Hf0.5 Zr Ti1.5 Al0.5 Cr0.5 B0.3 C0.05,BCC+MB2,AC,None,ultimate compressive strength,EXP,strain rate 1e-3,298,1966000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo0.5 Nb1.5 Hf0.5 Zr Ti1.5 Al0.5 Cr0.5 B0.3 C0.05,BCC+MB2,AC,None,compressive ductility,EXP,strain rate 1e-3,298,12.55,None,%,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo Nb1.5 Hf0.5 Zr0.5 Ti1.5 Al0.2 Cr0.2 C0.2,BCC+MC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1461000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo Nb1.5 Hf0.5 Zr0.5 Ti1.5 Al0.2 Cr0.2 C0.2,BCC+MC,AC,None,ultimate compressive strength,EXP,strain rate 1e-3,298,2057000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo Nb1.5 Hf0.5 Zr0.5 Ti1.5 Al0.2 Cr0.2 C0.2,BCC+MC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,23.89,None,%,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo1.5 Nb1.5 Hf0.3 Zr0.5 Ti1.5 C0.2 B0.1 Si0.1,BCC+MC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1613000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo1.5 Nb1.5 Hf0.3 Zr0.5 Ti1.5 C0.2 B0.1 Si0.1,BCC+MC,AC,None,ultimate compressive strength,EXP,strain rate 1e-3,298,2183000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo1.5 Nb1.5 Hf0.3 Zr0.5 Ti1.5 C0.2 B0.1 Si0.1,BCC+MC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,25.13,None,%,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo Nb1.5 Hf0.3 Zr0.5 Ti1.5 Al0.2 Cr0.2 C0.05 B0.05 Si0.05,BCC+MC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1322000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo Nb1.5 Hf0.3 Zr0.5 Ti1.5 Al0.2 Cr0.2 C0.05 B0.05 Si0.05,BCC+MC,AC,None,ultimate compressive strength,EXP,strain rate 1e-3,298,1652000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105723 
+4,Mo Nb1.5 Hf0.3 Zr0.5 Ti1.5 Al0.2 Cr0.2 C0.05 B0.05 Si0.05,BCC+MC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,19.17,None,%,T3,10.1016/j.ijrmhm.2021.105723 
+5,V Nb Mo Ta W,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa.,hardness,EXP,load 100g,298,12932700000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V Nb Mo Ta W,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa.,hardness,EXP,load 200g,298,11974700000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V Nb Mo Ta W,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa.,hardness,EXP,load 300g,298,11899100000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V Nb Mo Ta W,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa.,hardness,EXP,load 500g,298,11697400000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V Nb Mo Ta W,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa.,hardness,EXP,load 1000g,298,11420100000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 800 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 100g,298,19058800000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 800 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 200g,298,16991499999.999998,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 800 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 300g,298,16537800000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 800 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 500g,298,15756300000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 800 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 1000g,298,15176400000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 950 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 100g,298,19512600000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 950 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 200g,298,17747800000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 950 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 300g,298,17193200000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 950 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 500g,298,16159600000.000002,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 950 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 1000g,298,15352900000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1150 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 100g,298,19764700000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1150 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 200g,298,18000000000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1150 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 300g,298,17495700000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1150 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 500g,298,16386500000.000002,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1150 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 1000g,298,15630200000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1250 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 100g,298,20747800000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1250 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 200g,298,18504200000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1250 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 300g,298,17747800000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1250 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 500g,298,16285699999.999998,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1250 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 1000g,298,15882300000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1350 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 100g,298,22512600000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1350 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 200g,298,18932700000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1350 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 300g,298,18302500000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1350 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 500g,298,16739400000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1350 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 1000g,298,16210000000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1500 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 100g,298,14823500000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1500 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 200g,298,14117600000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1500 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 300g,298,13890700000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1500 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 500g,298,13411700000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1500 C and 0.5 h. Slowly cooled down to RT.,hardness,EXP,load 1000g,298,13084000000.0,None,Pa,F5,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 800 C and 0.5 h. Slowly cooled down to RT.,density,EXP,load 1000g,298,11772.6495726495,None,Kg/m3,F6,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 950 C and 0.5 h. Slowly cooled down to RT.,density,EXP,load 1000g,298,11885.0471407172,None,Kg/m3,F6,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1150 C and 0.5 h. Slowly cooled down to RT.,density,EXP,load 1000g,298,12307.2693629394,None,Kg/m3,F6,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1250 C and 0.5 h. Slowly cooled down to RT.,density,EXP,load 1000g,298,12345.7220900519,None,Kg/m3,F6,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1350 C and 0.5 h. Slowly cooled down to RT.,density,EXP,load 1000g,298,12459.4061150762,None,Kg/m3,F6,10.1016/j.jallcom.2020.155995
+5,V99 Nb99 Mo99 Ta99 W99 B5,BCC+BCC,PMP,Ball milled for 30 h and pressed at 10 MPa. Further compressed in a large volume cubic anvil with a pressure of 5 GPa at T = 1500 C and 0.5 h. Slowly cooled down to RT.,density,EXP,load 1000g,298,12469.2307692307,None,Kg/m3,F6,10.1016/j.jallcom.2020.155995
+6,Ti0.5 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive yield strength,EXP,strain rate 2.1e-4,298,1580000000.0,None,Pa,F5,10.1016/j.jallcom.2020.157997
+6,Ti0.5 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive ductility,EXP,strain rate 2.1e-4,298,27.0,None,%,F5,10.1016/j.jallcom.2020.157997
+6,Ti0.5 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,hardness,EXP,None,298,4798000000.0,255000000.0,Pa,F7,10.1016/j.jallcom.2020.157997
+6,Ti Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive yield strength,EXP,strain rate 2.1e-4,298,1531000000.0,None,Pa,F5,10.1016/j.jallcom.2020.157997
+6,Ti Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive ductility,EXP,strain rate 2.1e-4,298,17.0,None,%,F5,10.1016/j.jallcom.2020.157997
+6,Ti Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,hardness,EXP,None,298,4730000000.0,157000000.0,Pa,F7,10.1016/j.jallcom.2020.157997
+6,Ti1.5 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive yield strength,EXP,strain rate 2.1e-4,298,1439000000.0,None,Pa,F5,10.1016/j.jallcom.2020.157997
+6,Ti1.5 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive ductility,EXP,strain rate 2.1e-4,298,21.0,None,%,F5,10.1016/j.jallcom.2020.157997
+6,Ti1.5 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,hardness,EXP,None,298,4360000000.0,225590000.0,Pa,F7,10.1016/j.jallcom.2020.157997
+6,Ti2 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive yield strength,EXP,strain rate 2.1e-4,298,1440000000.0,None,Pa,F5,10.1016/j.jallcom.2020.157997
+6,Ti2 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,compressive ductility,EXP,strain rate 2.1e-4,298,35.0,None,%,F5,10.1016/j.jallcom.2020.157997
+6,Ti2 Zr Nb Ta Mo,BCC+BCC,AC,Re-melted at least 5 times to ensure homogeneity.,hardness,EXP,None,298,4232000000.0,176500000.0,Pa,F7,10.1016/j.jallcom.2020.157997
+7,Ti Zr Hf V Nb Ta,BCC,AC,Re-melted more than 8 times for homogeneity,compressive yield strength,EXP,strain rate 1e-3,298,1203000000.0,7500000.0,Pa,T2,10.1016/j.jallcom.2021.161187
+7,Ti Zr Hf V0.5 Nb0.5 Ta0.5,BCC,AC,Re-melted more than 8 times for homogeneity,compressive yield strength,EXP,strain rate 1e-3,298,1202000000.0,13100000.0,Pa,T2,10.1016/j.jallcom.2021.161187
+7,Ti Zr Hf V0.1 Nb0.1 Ta0.1,BCC,AC,Re-melted more than 8 times for homogeneity,compressive yield strength,EXP,strain rate 1e-3,298,866000000.0,9600000.0,Pa,T2,10.1016/j.jallcom.2021.161187
+7,Ti Zr Hf V Nb Ta,BCC,AC,Re-melted more than 8 times for homogeneity,compressive ductility,EXP,strain rate 1e-3,298,50.0,None,%,T2,10.1016/j.jallcom.2021.161187
+7,Ti Zr Hf V0.5 Nb0.5 Ta0.5,BCC,AC,Re-melted more than 8 times for homogeneity,compressive ductility,EXP,strain rate 1e-3,298,50.0,None,%,T2,10.1016/j.jallcom.2021.161187
+7,Ti Zr Hf V0.1 Nb0.1 Ta0.1,BCC,AC,Re-melted more than 8 times for homogeneity,compressive ductility,EXP,strain rate 1e-3,298,25.6,0.2,%,T2,10.1016/j.jallcom.2021.161187
+8,Hf Co,B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,295,75000000.0,25000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,295,970000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,compressive ductility,EXP,strain rate 1e-4,295,35.0,5.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,873,65000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,compressive ductility,EXP,strain rate 1e-4,873,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1073,15000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1073,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1273,9000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co,B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1273,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,295,640000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,295,1165000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,295,15.0,3.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,873,750000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,873,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1073,460000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1073,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1273,285000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf9 Co9 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1273,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,295,1155000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,295,1620000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,295,9.0,1.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,873,1130000000.0,25000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,873,1586000000.0,25000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,873,26.0,4.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1073,780000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1073,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1273,395000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf3 Co3 Nb Mo,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1273,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,295,1180000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,295,1865000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,295,10.0,2.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,873,1000000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,873,2325000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,873,30.0,4.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1073,685000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,1073,1105000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1073,35.0,5.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1273,370000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,1273,520000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf2 Co2 Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1273,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,295,1280000000.0,30000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,295,1975000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,295,5.0,1.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,873,1105000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,873,2191000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,873,23.0,2.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1073,670000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,1073,1210000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1073,23.0,2.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive yield strength,EXP,strain rate 1e-4,1273,460000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,1273,520000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Hf Co Nb3 Mo3,BCC+B2,AC,None,compressive ductility,EXP,strain rate 1e-4,1273,50.0,None,%,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-4,295,985000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,295,1290000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive ductility,EXP,strain rate 1e-4,295,8.0,1.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-4,873,615000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,873,1185000000.0,25000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive ductility,EXP,strain rate 1e-4,873,18.0,4.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-4,1073,500000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,1073,770000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive ductility,EXP,strain rate 1e-4,1073,10.0,3.0,%,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-4,1273,385000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,ultimate compressive strength,EXP,strain rate 1e-4,1273,480000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.167013
+8,Nb Mo,BCC,AC,None,compressive ductility,EXP,strain rate 1e-4,1273,15.0,1.0,%,T4,10.1016/j.jallcom.2022.167013
