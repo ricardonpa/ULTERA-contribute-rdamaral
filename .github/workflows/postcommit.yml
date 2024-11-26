@@ -27,6 +27,14 @@ jobs:
         run: |
           python .github/workflows/csv2readme.py .
 
+      - name: Commit changes with Add & Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: '(automatic) `postcommit` Action for Data Tracking'
+          add: |
+            .github/excel2csv/*.csv
+            README.md
+
       - name: Create Issue Notification
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -35,9 +43,3 @@ jobs:
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/PhasesResearchLab/ULTERA-contribute/issues \
           -d '{"title":"New ULTERA Contribution","body":"@PhasesResearchLab/ultera-maintainers: New ULTERA contribution on repository: ${{ github.repository }} (Commit: ${{ github.sha }})","labels":["new contribution"]}'
-
-      - name: Commit changes with Add & Commit
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: '(automatic) `postcommit` Action for Data Tracking'
-          add: '.github/excel2csv/*.csv'
