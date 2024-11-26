@@ -1,0 +1,67 @@
+Name:,Ricardo Amaral
+Email:,rna5137@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,V Nb Ta Mo,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1326000000.0,32000000.0,Pa,F6,10.1002/adem.202402021
+1,V Nb Ta Mo,BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,30.1,1.7,%,F6,10.1002/adem.202402021
+1,V0.263 Nb0.263 Ta0.263 Mo0.211,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1214000000.0,26000000.0,Pa,F6,10.1002/adem.202402021
+1,V0.263 Nb0.263 Ta0.263 Mo0.211,BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,44.2,0.8,%,F6,10.1002/adem.202402021
+1,V0.238 Nb0.238 Ta0.238 Mo0.286,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1465000000.0,39000000.0,Pa,F6,10.1002/adem.202402021
+1,V0.238 Nb0.238 Ta0.238 Mo0.286,BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,20.7,2.3,%,F6,10.1002/adem.202402021
+1,V Nb Ta Mo,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1773,381740000.0,None,Pa,T2,10.1002/adem.202402021
+1,V Nb Ta Mo,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-2,1773,534919999.99999994,None,Pa,T2,10.1002/adem.202402021
+1,V0.263 Nb0.263 Ta0.263 Mo0.211,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1773,335470000.0,None,Pa,T2,10.1002/adem.202402021
+1,V0.263 Nb0.263 Ta0.263 Mo0.211,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-2,1773,433790000.0,None,Pa,T2,10.1002/adem.202402021
+1,V0.238 Nb0.238 Ta0.238 Mo0.286,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1773,412570000.0,None,Pa,T2,10.1002/adem.202402021
+1,V0.238 Nb0.238 Ta0.238 Mo0.286,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-2,1773,577870000.0,None,Pa,T2,10.1002/adem.202402021
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,298,533000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,298,719000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,298,18.15,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,298,19.82,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,873,398000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,873,420000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,873,1.2,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe Co Cr Ni,FCC,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,873,1.25,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,298,609000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,298,776000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,298,27.46,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,298,36.51,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,873,407000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,873,473000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,873,6.71,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.244 Co0.244 Cr0.244 Ni0.244 Mo0.024,FCC+Sigma,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,873,8.23,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,298,698000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,298,953000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,298,25.02,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,298,27.78,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,873,477000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,873,661000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,873,19.35,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.233 Co0.233 Cr0.233 Ni0.233 Mo0.07,FCC+Sigma,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,873,22.98,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,298,930000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,298,1091000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,298,19.38,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,298,19.93,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile yield strength,EXP,strain rate 3e-4,873,578000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,ultimate tensile strength,EXP,strain rate 3e-4,873,799000000.0,None,Pa,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,tensile ductility,EXP,strain rate 3e-4,873,11.16,None,%,T1,10.1016/j.ijplas.2024.104142
+2,Fe0.222 Co0.222 Cr0.222 Ni0.222 Mo0.111,FCC+Sigma,AM,Laser-based Additive Manufacturing,total tensile ductility,EXP,strain rate 3e-4,873,11.33,None,%,T1,10.1016/j.ijplas.2024.104142
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1730000000.0,220000000.0,Pa,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,6.2,0.6,%,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1473,1088000000.0,260000000.0,Pa,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,1473,30.0,None,%,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,1873,390000000.0,180000000.0,Pa,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,1873,30.0,None,%,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,2073,312000000.0,160000000.0,Pa,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,2073,30.0,None,%,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,hardness,EXP,None,298,3580000000.0,None,Pa,T4,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W Hf,BCC+BCC,AC,None,density,EXP,None,298,14090.0,None,kg/m3,T4,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W,BCC,AC,None,compressive yield strength,EXP,strain rate 1e-3,298,1042000000.0,410000000.0,Pa,T2,10.1016/j.intermet.2024.108515
+3,Nb Mo Ta W,BCC,AC,None,compressive ductility,EXP,strain rate 1e-3,298,0.9,0.1,%,T2,10.1016/j.intermet.2024.108515
+4,Al0.2 Mo0.1 Nb0.2 Ta0.1 Ti0.2 Zr0.2,BCC+HCP,AM,Laser-based Additive Manufacturing,hardness,EXP,None,298,6335000000.0,None,Pa,F6,10.1016/j.jallcom.2024.177079
+4,Al0.2 Mo0.1 Nb0.2 Ta0.1 Ti0.2 Zr0.2,BCC+HCP,AM,Laser-based Additive Manufacturing,compressive yield strength,EXP,strain rate 1e-3,1273,774000000.0,None,Pa,F7,10.1016/j.jallcom.2024.177079
+4,Al Nb Ta Ti Zr,BCC+HCP,AM,Laser-based Additive Manufacturing,hardness,EXP,None,298,6031000000.0,None,Pa,F6,10.1016/j.jallcom.2024.177079
+4,Al Nb Ta Ti Zr,BCC+HCP,AM,Laser-based Additive Manufacturing,compressive yield strength,EXP,strain rate 1e-3,1273,762000000.0,None,Pa,F7,10.1016/j.jallcom.2024.177079
