@@ -39,8 +39,7 @@ jobs:
         uses: peter-evans/create-issue-from-file@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          owner: PhasesResearchLab
-          repo: ULTERA-contribute
+          repository: PhasesResearchLab/ULTERA-contribute
           title: New ULTERA Contribution
           content-filepath: .github/ISSUE_TEMPLATE.md
           labels: new contribution
