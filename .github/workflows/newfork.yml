@@ -7,17 +7,12 @@ jobs:
     permissions:
       issues: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Create fork notification issue
-        uses: actions/github-script@v6
+      - uses: actions/github-script@v6
         with:
           script: |
-            const { context } = require('@actions/github');
-            github.rest.issues.create({
+            await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: 'New Repository Fork Created',
-              body: `A new fork of this repository has been created by @${{ github.actor }}\n\n@PhasesResearchLab/ultera-maintainers`
+              body: `A new fork of this repository has been created by @${context.actor}\n\n@PhasesResearchLab/ultera-maintainers`,
             });
