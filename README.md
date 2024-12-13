@@ -25,7 +25,7 @@ Comment: None
 
 ```
 File: CreepData.csv
-Datapoints: 2305
+Datapoints: 2304
 Comment: None
 ```
 
@@ -53,7 +53,7 @@ Datapoints: 101
 Comment: None
 ```
 
-**Last time updated:** 11-26-2024 08:51pm
+**Last time updated:** 12-13-2024 04:44pm
 
 ## The ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the [**DOE ARPA-E ULTIMATE program**](https://arpa-e.energy.gov/?q=arpa-e-programs/ultimate) that aims to develop a new generation of materials for turbine blades in gas turbines and related applications. 
