@@ -6,8 +6,32 @@
 **Email:** rna5137@psu.edu
 
 ```
+File: CarbideExpansion_Apr2024.csv
+Datapoints: 129
+Comment: None
+```
+
+```
 File: 24-09_Contributions.csv
 Datapoints: 411
+Comment: None
+```
+
+```
+File: 25-01_Contributions.csv
+Datapoints: 682
+Comment: None
+```
+
+```
+File: 24-07_Contributions.csv
+Datapoints: 87
+Comment: None
+```
+
+```
+File: AlNbTiVZrExpansion_Apr2024.csv
+Datapoints: 13
 Comment: None
 ```
 
@@ -30,30 +54,12 @@ Comment: None
 ```
 
 ```
-File: 24-07_Contributions.csv
-Datapoints: 87
-Comment: None
-```
-
-```
-File: AlNbTiVZrExpansion_Apr2024.csv
-Datapoints: 13
-Comment: None
-```
-
-```
-File: CarbideExpansion_Apr2024.csv
-Datapoints: 129
-Comment: None
-```
-
-```
 File: 24-06_Contributions.csv
 Datapoints: 101
 Comment: None
 ```
 
-**Last time updated:** 12-13-2024 07:37pm
+**Last time updated:** 01-17-2025 04:21am
 
 ## The ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the [**DOE ARPA-E ULTIMATE program**](https://arpa-e.energy.gov/?q=arpa-e-programs/ultimate) that aims to develop a new generation of materials for turbine blades in gas turbines and related applications. 
