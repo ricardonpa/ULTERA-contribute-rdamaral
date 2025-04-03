@@ -1,0 +1,1229 @@
+Name:,Ricardo Amaral
+Email:,rna5137@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,447.42,810.93,3.209e-07,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,480.38,810.93,4.339e-07,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,525.03,810.93,8.406e-07,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,605.24,810.93,3.0204e-06,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,601.67,810.93,5.1572e-06,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,697.72,810.93,6.9952e-06,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,955.09,922.04,8.02e-08,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,1013.38,922.04,1.453e-07,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,1001.45,922.04,2.481e-07,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,1107.56,922.04,5.44e-07,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,1094.51,922.04,1.1702e-06,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,1140.86,922.04,4.9109e-06,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+Inconel 718,Ni53.9555 Cr21.1941 Fe17.6562 Nb3.12145 Mo1.81365 Al1.28978 Ti0.969362,None,A+AT,Sheet annealed at 1750 F + Aged at 1320 F,creep rate,EXP,1182.14,922.04,2.29398e-05,None,%/s,P5.33,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,245.07,1019.0,1.76e-08,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,281.21,1019.0,8.91e-08,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,316.19,1019.0,1.754e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,352.2,1019.0,5.062e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,191.97,1033.0,4.5e-09,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,211.05,1033.0,1.09e-08,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,226.81,1033.0,2.42e-08,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,244.49,1033.0,4.53e-08,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,281.4,1033.0,1.885e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,314.52,1033.0,6.319e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,350.33,1033.0,1.7067e-06,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,245.54,1047.0,1.36e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,281.64,1047.0,4.554e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,314.68,1047.0,1.0945e-06,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,140.55,1116.0,5.98e-08,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,175.63,1116.0,8.916e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,210.27,1116.0,6.6238e-06,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,49.63,1366.0,1.48e-08,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,53.08,1366.0,2.147e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,56.09,1366.0,2.487e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,56.82,1366.0,2.444e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,53.28,1366.0,3.908e-07,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,54.75,1366.0,1.5027e-06,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,63.56,1366.0,5.90697e-05,None,%/s,P5.99,Boyer_1988_AtlasOfCreep
+YDNiCrAI,Ni68.5968 Cr16.1846 Al10.0781 O4.37222 Y0.425947 Fe0.178947 N0.0976318 C0.0656866,FCC+Y2O3,PMP+HE+HW+RX,Consolidated by hot extrusion + hot worked + recrystallization,creep rate,EXP,118.98,1255.0,1.1313e-06,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,136.53,1255.0,2.8852e-06,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,171.18,1255.0,5.6414e-06,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,204.42,1255.0,2.88523e-05,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,236.2,1255.0,0.0003401023,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,34.14,1477.0,2.24022e-05,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,40.68,1477.0,3.07364e-05,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,47.39,1477.0,9.12391e-05,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,57.04,1477.0,0.0001420655,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Cb-753,Ni93.4555 V5.74277 Zr0.801722,None,AC,None,creep rate,EXP,67.55,1477.0,0.0002921968,None,%/s,P8.41,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,36.77,1873.0,5.297e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,45.64,1873.0,9.881e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,55.03,1873.0,1.967e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,66.43,1873.0,4.6587e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,74.47,1873.0,9.7539e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,11.17,2473.0,5.24e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,14.81,2473.0,9.846e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,19.21,2473.0,2.0035e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,24.76,2473.0,4.6443e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,29.87,2473.0,9.8678e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Re,Re100,None,AC,None,creep rate,EXP,36.84,2473.0,2.22182e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,14.11,1873.0,5.206e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,17.64,1873.0,9.78e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,21.59,1873.0,2.0043e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,28.45,1873.0,4.6463e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,34.82,1873.0,9.8726e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,42.95,1873.0,2.22289e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,5.34,2473.0,5.4595e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,5.38,2473.0,5.7852e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,6.29,2473.0,9.7488e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,7.32,2473.0,1.95453e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,7.24,2473.0,3.53907e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,7.24,2473.0,3.83249e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,5.31,2473.0,6.8829e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,6.27,2473.0,1.6902e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP,None,creep rate,EXP,7.24,2473.0,3.33989e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,13.23,1873.0,2.0451e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,15.51,1873.0,4.7051e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,17.91,1873.0,9.852e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,21.45,1873.0,2.31653e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,1.46,2473.0,5.244e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,1.65,2473.0,9.638e-07,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,1.89,2473.0,1.9462e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,2.25,2473.0,4.6429e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,2.58,2473.0,9.6513e-06,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+Mo,Mo100,None,AC,None,creep rate,EXP,3.16,2473.0,2.43995e-05,None,%/s,P8.10,Boyer_1988_AtlasOfCreep
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,412.78,423.0,4.42e-08,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,119.84,503.0,2.9e-09,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,136.57,503.0,9.6e-09,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,210.45,503.0,8.12e-08,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,344.44,503.0,7.171e-07,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,341.0,503.0,1.3595e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,341.0,503.0,1.8445e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,425.42,503.0,3.2868e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,416.95,503.0,4.1634e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,408.65,503.0,5.2222e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,66.88,588.0,6.2e-09,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,73.96,588.0,6.8e-09,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,82.61,588.0,1.56e-08,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,102.03,588.0,5.42e-08,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,104.1,588.0,6.6e-08,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,137.96,588.0,5.508e-07,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,137.96,588.0,6.198e-07,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,151.02,588.0,2.0769e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,151.02,588.0,2.2917e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,168.68,588.0,4.9302e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,172.11,588.0,7.8273e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,175.61,588.0,8.4661e-06,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,206.26,588.0,2.42134e-05,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,198.13,588.0,3.55587e-05,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,230.38,588.0,7.49708e-05,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+C95400,Cu73.6196 Al22.4382 Fe3.9422,None,AC,None,creep rate,EXP,235.06,588.0,8.6022e-05,None,%/s,F47,10.31399/asm.hb.v02.9781627081627
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,32.28,1873.0,4.799e-07,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,40.72,1873.0,1.1278e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,67.48,1873.0,4.3944e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,99.53,1873.0,2.11835e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,6.82,2473.0,2.941e-07,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,10.16,2473.0,3.2617e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,12.85,2473.0,4.9396e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,13.63,2473.0,7.1026e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,14.81,2473.0,8.3858e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,16.73,2473.0,9.8984e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,19.8,2473.0,3.22287e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,26.55,2473.0,8.1044e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,6.06,2673.0,1.4663e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,8.79,2673.0,8.2256e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,11.45,2673.0,1.6735e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,15.33,2673.0,4.71463e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,1.85,2873.0,7.7e-08,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,2.32,2873.0,1.389e-07,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,4.44,2873.0,2.5542e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,5.8,2873.0,3.2986e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,5.75,2873.0,3.7238e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,5.48,2873.0,4.4004e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,5.78,2873.0,5.9555e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,6.09,2873.0,7.033e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,6.82,2873.0,9.3009e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,8.01,2873.0,2.96043e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,9.95,2873.0,6.85278e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,4.35,3073.0,4.9749e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,136.68,1253.0,1.768e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,171.07,1253.0,4.014e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,204.84,1253.0,9.017e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,272.84,1253.0,4.3474e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,306.41,1253.0,1.07726e-05,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,60.82,1363.0,9.4e-08,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,85.53,1363.0,4.062e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,102.96,1363.0,7.441e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,119.62,1363.0,2.3129e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,169.14,1363.0,8.0507e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,34.21,1477.0,9.71e-08,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,41.24,1477.0,1.037e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,55.27,1477.0,2.646e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,61.81,1477.0,4.802e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,85.28,1477.0,1.633e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,102.68,1477.0,2.7503e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,137.8,1253.0,1.78e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,150.63,1253.0,3.93e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,153.85,1253.0,5.13e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,172.62,1253.0,1.356e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,187.7,1253.0,2.785e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,235.11,1253.0,1.9962e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,90.02,1363.0,2.14e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,104.11,1363.0,4.44e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,103.07,1363.0,4.85e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,119.34,1363.0,1.758e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,122.01,1363.0,3.481e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,154.0,1363.0,7.888e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,152.52,1363.0,1.0554e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,170.23,1363.0,2.619e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,44.72,1477.0,1.15e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,55.89,1477.0,3.23e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,62.33,1477.0,5.35e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,61.73,1477.0,6.98e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,68.09,1477.0,8.97e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,86.04,1477.0,3.372e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,102.63,1477.0,7.091e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,119.42,1477.0,2.3523e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,78.55,1873.0,0.0004752781,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,49.84,1923.0,4.92357e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,56.76,1923.0,0.0001432905,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,30.75,1973.0,4.8236e-06,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,2.96,2273.0,2.01e-08,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,3.37,2273.0,2.79e-08,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,3.99,2273.0,5.81e-08,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,7.57,2273.0,1.9854e-06,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,11.49,2273.0,3.53657e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,14.36,2273.0,0.0001109022,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,5.89,2523.0,1.394e-07,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,4.58,2523.0,7.544e-07,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,6.4,2523.0,4.0555e-06,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,10.38,2523.0,9.0295e-06,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,8.31,2523.0,1.61921e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,11.71,2523.0,4.67286e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,11.28,2523.0,7.71364e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,2.18,2773.0,8.331e-07,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,4.76,2773.0,2.38607e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,7.57,2773.0,2.90518e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,7.43,2773.0,3.76742e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,7.5,2773.0,4.93169e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,5.62,2773.0,5.11235e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+Mo,Mo100,None,PMP+MW,None,creep rate,EXP,7.64,2773.0,0.0005564773,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,208.52,393.0,5.7e-09,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,243.91,393.0,2.54e-08,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,54.47,448.0,9.8e-09,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,86.33,448.0,8.42e-08,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,101.98,448.0,3.433e-07,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,139.53,448.0,1.1001e-06,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,212.65,448.0,9.6886e-06,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,14.51,503.0,4.3e-09,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,21.06,503.0,1.55e-08,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,36.09,503.0,3.29e-08,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,56.1,503.0,1.4602e-06,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+C86500,Cu57.8254 Zn37.7751 Al2.34808 Fe1.47482 Mn0.576601,None,AC,None,creep rate,EXP,91.56,503.0,1.00079e-05,None,%/s,F23,10.31399/asm.hb.v02.9781627081627
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,137.1,1253.0,2.014e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,173.06,1253.0,4.703e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,207.72,1253.0,1.0455e-06,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,276.15,1253.0,5.1592e-06,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,312.14,1253.0,1.26166e-05,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,61.29,1363.0,1.036e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,85.66,1363.0,4.481e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,103.81,1363.0,8.416e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,120.99,1363.0,2.6205e-06,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,170.72,1363.0,9.1255e-06,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,33.88,1477.0,1.025e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,41.02,1477.0,1.106e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,55.0,1477.0,2.881e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,62.13,1477.0,5.15e-07,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,85.91,1477.0,1.7927e-06,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+B-66,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,R,None,creep rate,EXP,104.1,1477.0,3.0205e-06,None,%/s,P8.32,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,14.43,673.0,9.2e-09,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,21.13,673.0,7.03e-08,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,23.41,673.0,3.002e-07,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,27.92,673.0,3.695e-07,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,29.6,673.0,2.88e-07,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,34.79,673.0,1.2826e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,40.28,673.0,1.2826e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,46.64,673.0,2.1102e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,48.03,673.0,3.9318e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,54.01,673.0,4.6416e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,51.69,673.0,5.9535e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,65.36,673.0,1.30954e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,74.58,673.0,1.98288e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,77.93,673.0,2.43999e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,68.3,673.0,4.36154e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,85.1,673.0,3.85111e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,91.58,673.0,5.83131e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,98.54,673.0,7.79636e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,10.0,873.0,1.365e-07,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,14.64,873.0,1.1805e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,20.22,873.0,5.7116e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,21.44,873.0,8.6484e-06,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,25.94,873.0,2.43999e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,31.86,873.0,6.07832e-05,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,72.42,873.0,0.0674262224,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,136.07,873.0,1.3369837418,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,148.58,873.0,4.2719939663,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,162.25,873.0,13.0953502048,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,172.06,873.0,41.842885079,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,205.16,873.0,1064.2092440647,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,205.16,873.0,1365.007806546,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,208.2,873.0,1902.3011886689,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+Cu,Cu100,None,AC,None,creep rate,EXP,208.2,873.0,2651.0836019085,None,%/s,P20.31,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,93.62,423.0,1.83e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,102.63,423.0,3.03e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,109.08,423.0,4.7e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,116.83,423.0,7.66e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,129.09,423.0,1.266e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,137.19,423.0,2.029e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,150.39,423.0,3.407e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,33.67,478.0,1.86e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,37.79,478.0,3.17e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,41.75,478.0,5.13e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,47.6,478.0,8.35e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,53.84,478.0,1.348e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,59.96,478.0,2.247e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C68700,Cu59.9618 Zn39.4942 Sn0.544031,None,HR,None,creep rate,EXP,66.24,478.0,3.774e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,70.13,478.0,1.86e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,75.1,478.0,3.1e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,81.08,478.0,4.82e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,86.16,478.0,7.84e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,91.56,478.0,1.296e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,96.54,478.0,2.11e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,104.19,478.0,3.572e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,14.27,588.0,1.94e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,16.91,588.0,3.33e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,20.04,588.0,5.77e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,23.57,588.0,9.32e-08,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,27.29,588.0,1.529e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,31.12,588.0,2.392e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+-,Cu77.8496 Zn21.6092 Sn0.541211,None,HR,None,creep rate,EXP,36.59,588.0,4.115e-07,None,%/s,P20.41,Boyer_1988_AtlasOfCreep
+C19500,Cu96.9072 Fe1.70522 Co0.861792 Sn0.320875 P0.204964,None,AC,None,creep rate,EXP,271.02,533.15,3.5e-09,None,%/s,P20.2,Boyer_1988_AtlasOfCreep
+C19500,Cu96.9072 Fe1.70522 Co0.861792 Sn0.320875 P0.204964,None,AC,None,creep rate,EXP,117.21,588.71,1.74e-08,None,%/s,P20.2,Boyer_1988_AtlasOfCreep
+C19500,Cu96.9072 Fe1.70522 Co0.861792 Sn0.320875 P0.204964,None,AC,None,creep rate,EXP,98.9,644.26,3.076e-07,None,%/s,P20.2,Boyer_1988_AtlasOfCreep
+C19500,Cu96.9072 Fe1.70522 Co0.861792 Sn0.320875 P0.204964,None,AC,None,creep rate,EXP,59.43,699.82,1.8495e-06,None,%/s,P20.2,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,204.53,503.0,3.79e-08,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,323.49,503.0,1.5195e-06,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,420.61,503.0,1.53481e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,69.04,588.0,1.32e-08,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,89.17,588.0,5.96e-08,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,97.88,588.0,3.536e-07,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,113.05,588.0,1.9148e-06,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,135.41,588.0,2.6152e-06,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,150.44,588.0,9.7622e-06,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,147.32,588.0,1.16991e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,169.59,588.0,1.33328e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,139.93,588.0,1.45956e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,164.06,588.0,2.56308e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,208.1,588.0,7.29309e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,205.89,588.0,8.39551e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,209.98,588.0,9.37739e-05,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+C95200,Cu78.1457 Al18.8229 Fe3.03143,None,AC,None,creep rate,EXP,216.2,588.0,0.000121792,None,%/s,P20.15,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,1.55,723.0,1e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,1.93,723.0,3e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,2.3,723.0,5.2e-09,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,2.3,723.0,1.18e-08,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,2.61,723.0,6.13e-08,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,1.17,748.0,4e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,1.94,748.0,2.18e-08,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.6757 Mn0.324277,None,E+ST,None,creep rate,EXP,2.31,748.0,9.86e-08,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,1.91,723.0,2e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,2.3,723.0,3e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,2.65,723.0,5e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,1.24,748.0,1e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,1.54,748.0,3e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,2.28,748.0,8e-10,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,1.25,773.0,1.1e-09,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+-,Mg99.5148 Mn0.485173,None,E+ST,None,creep rate,EXP,1.55,773.0,2.4e-09,None,%/s,P21.8,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,149.98,1473.0,9.1e-09,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,206.35,1473.0,1.737e-07,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,260.45,1473.0,6.293e-07,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,314.87,1473.0,2.5713e-06,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,325.92,1473.0,9.65322e-05,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,120.89,1573.0,8.33e-08,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,123.0,1573.0,1.097e-07,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,155.24,1573.0,1.9301e-06,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,190.94,1573.0,1.76848e-05,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,206.35,1573.0,5.12902e-05,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,211.76,1573.0,6.41159e-05,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,238.93,1573.0,0.0002666718,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,228.85,1573.0,0.0002906901,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,41.85,1673.0,7.07e-08,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,75.23,1673.0,6.8e-08,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,100.87,1673.0,3.414e-07,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+TZM,Mo98.7411 Ti0.995709 C0.15873 Zr0.104494,None,RX,None,creep rate,EXP,163.49,1673.0,1.00423e-05,None,%/s,P8.19,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,40.64,1923.0,2.2762e-06,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,54.48,1923.0,1.10585e-05,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,68.48,1923.0,1.45417e-05,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,101.49,1923.0,6.39528e-05,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,119.44,1923.0,0.0001026278,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,134.71,1923.0,0.000299316,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,168.41,1923.0,0.0014008776,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,A,Annealed 1h at 2200C,creep rate,EXP,30.9,1923.0,5.7176e-06,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,A,Annealed 1h at 2200C,creep rate,EXP,41.01,1923.0,2.88346e-05,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,A,Annealed 1h at 2200C,creep rate,EXP,67.32,1923.0,0.000742548,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,9.46,2473.0,1.3328e-06,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,12.23,2473.0,9.4065e-06,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,17.4,2473.0,5.50801e-05,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+W-2ThO2,W95.9354 O2.6996 Th1.36504,None,AC,None,creep rate,EXP,33.58,2473.0,0.0028125672,None,%/s,P8.84,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,335.95,393.0,1.1e-09,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,444.37,393.0,4.2e-09,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,222.18,423.0,3.8e-09,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,146.94,448.0,5.5e-09,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,189.7,448.0,3.18e-08,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,253.98,448.0,3.24e-07,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,312.31,448.0,1.7624e-06,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,403.17,448.0,1.90672e-05,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,19.05,503.0,1.58e-08,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,34.57,503.0,2.68e-08,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,77.13,503.0,1.0581e-06,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C86300,Cu58.1703 Zn22.426 Al13.0477 Mn3.20403 Fe3.152,None,AC,None,creep rate,EXP,115.22,503.0,3.924e-06,None,%/s,P20.11,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,108.57,448.0,2.1e-09,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,125.38,448.0,1.14e-08,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,222.95,448.0,4.87e-08,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,82.26,503.0,3.9e-09,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,90.23,503.0,7.3e-09,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,94.99,503.0,1.11e-08,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,44.39,563.0,5.1e-09,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,52.87,563.0,9.2e-09,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,67.66,563.0,2.25e-08,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,79.76,563.0,7.11e-08,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C92200,Cu91.625 Zn4.55192 Sn3.34413 Pb0.478984,None,AC,None,creep rate,EXP,113.13,563.0,2.5608e-05,None,%/s,P20.13,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,84.25,175.0,5.7e-09,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,108.96,175.0,2.03e-08,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,132.06,175.0,9.93e-08,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,55.32,230.0,4.2e-09,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,67.92,230.0,1.56e-08,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,86.55,230.0,2.86e-08,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,109.08,230.0,5.636e-07,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,118.81,230.0,1.3036e-06,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,126.08,230.0,1.73004e-05,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,19.33,290.0,1.12e-08,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,33.99,290.0,5.22e-08,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,42.85,290.0,9.88e-08,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+C93700,Cu90.4773 Sn6.05412 Pb3.46855,None,AC,None,creep rate,EXP,52.01,290.0,1.312e-07,None,%/s,P20.14,Boyer_1988_AtlasOfCreep
+-,Nb100,None,AC,None,creep rate,EXP,48.28,1205.0,0.0012305556,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,48.28,1205.0,0.0028055556,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,41.38,1205.0,0.0003388889,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,37.93,1205.0,1.1667e-06,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,34.48,1205.0,2.0278e-06,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,58.62,1144.0,0.0034166667,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,55.17,1144.0,0.0002111111,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,51.72,1144.0,8.333e-07,None,%/s,T9.1,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,13.79,1223.0,3.0833e-06,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,20.69,1223.0,1.60833e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,27.59,1223.0,5.83333e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,34.48,1223.0,0.0001533333,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,13.79,1273.0,5.25e-06,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,17.24,1273.0,1.38333e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,20.69,1273.0,9.5e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,20.69,1273.0,3.27778e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,24.14,1273.0,0.0001236111,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,10.34,1323.0,5.2778e-06,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,17.24,1323.0,4.25e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,10.34,1373.0,1.52778e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,10.34,1423.0,2.30556e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,Nb100,None,AC,None,creep rate,EXP,10.34,1473.0,3.63889e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,222.97,1144.11,1.263e-07,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,240.6,1144.11,2.0263e-06,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,246.82,1144.11,1.28197e-05,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,261.08,1144.11,0.0002773101,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,172.67,1255.22,4.7e-09,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,205.86,1255.22,7.878e-07,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,239.82,1255.22,0.0003314959,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,123.67,1366.33,8.54e-08,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,137.67,1366.33,2.768e-07,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,154.52,1366.33,5.11e-07,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,205.6,1366.33,2.60317e-05,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,219.08,1366.33,9.05192e-05,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,117.19,1477.44,6.802e-07,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,137.41,1477.44,2.3631e-06,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+RX,None,creep rate,EXP,171.9,1477.44,3.11676e-05,None,%/s,F5.8,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,16.56,2523.0,6.64e-07,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,27.92,2523.0,1.39421e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,37.05,2523.0,0.0001061794,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,48.05,2523.0,0.000698724,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,12.28,2773.0,1.0903e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,14.17,2773.0,6.2534e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,20.16,2773.0,5.17977e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,20.93,2773.0,8.54158e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,12.1,2973.0,7.6517e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,13.58,2973.0,1.37226e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,15.02,2973.0,2.20982e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,16.55,2973.0,8.69463e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,20.82,2973.0,0.0004078412,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,23.53,2973.0,0.0009650277,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,9.88,3073.0,5.4217e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,11.71,3073.0,1.39564e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,15.27,3073.0,0.0001623696,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP+MW,None,creep rate,EXP,17.66,3073.0,0.0004212949,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,17.78,2523.0,6.239e-07,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,29.5,2523.0,1.29016e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,40.4,2523.0,9.45139e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,54.93,2523.0,0.0005711708,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,12.87,2773.0,1.0486e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,15.69,2773.0,6.011e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,21.64,2773.0,4.82949e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,21.95,2773.0,7.78392e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,12.99,2973.0,7.1343e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,14.24,2973.0,1.27976e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,16.24,2973.0,2.07615e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,17.49,2973.0,7.92277e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,22.17,2973.0,0.0003773741,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,26.69,2973.0,0.0008455428,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,10.36,3073.0,4.9408e-06,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,11.89,3073.0,1.26248e-05,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,16.52,3073.0,0.0001456596,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,PMP,None,creep rate,EXP,17.81,3073.0,0.0003753039,None,%/s,F5.11,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,32.78,1921.89,4.769e-07,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,48.43,1921.89,1.6161e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,41.58,1921.89,3.2802e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,50.23,1921.89,1.31869e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,81.31,1921.89,1.28689e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,54.37,1921.89,2.54894e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,60.68,1921.89,3.67596e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,50.85,1921.89,3.95524e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,58.14,1921.89,7.46091e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,68.13,1921.89,7.64526e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,65.28,1921.89,0.0001840847,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,74.65,1921.89,0.0001886333,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,13.79,2199.67,1.34e-07,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,16.46,2199.67,2.08e-07,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,15.68,2199.67,3.307e-07,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,20.25,2199.67,6.088e-07,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,16.87,2199.67,7.222e-07,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,20.63,2199.67,1.3623e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,24.02,2199.67,2.3307e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,34.84,2199.67,5.7507e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,30.47,2199.67,1.05861e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,34.0,2199.67,1.52667e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,31.8,2199.67,1.90174e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,34.21,2199.67,2.36896e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,37.26,2199.67,1.85589e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,41.08,2199.67,2.81037e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,37.49,2199.67,3.4164e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,34.84,2199.67,6.76688e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,41.08,2199.67,5.56651e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,44.46,2199.67,5.04871e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,43.92,2199.67,0.0001129805,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,46.97,2199.67,9.06979e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,46.69,2199.67,0.0001551718,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,17.5,2477.44,1.72484e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,15.68,2477.44,2.09679e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,19.76,2477.44,2.61193e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,17.6,2477.44,2.87981e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,21.52,2477.44,4.05297e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,19.64,2477.44,4.80816e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,23.59,2477.44,6.93409e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,AC,None,creep rate,EXP,21.52,2477.44,8.85108e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,29.02,1921.89,1.6161e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,32.78,1921.89,4.3965e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,46.97,1921.89,3.02389e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,14.66,2199.67,3.646e-07,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,19.29,2199.67,1.8259e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,21.79,2199.67,3.8914e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,21.92,2199.67,5.3446e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,25.07,2199.67,9.6013e-06,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,28.49,2199.67,1.99689e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,EBM,None,creep rate,EXP,32.78,2199.67,7.64526e-05,None,%/s,F5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+-,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,55.03,1921.89,2.63e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,61.86,1921.89,4e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,69.52,1921.89,8.4e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,75.72,1921.89,0.00021,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,32.55,2199.67,1.95e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,38.14,2199.67,3.62e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,42.9,2199.67,6.88e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,47.86,2199.67,0.000171,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,34.69,2199.67,2.5e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,38.14,2199.67,3.5e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,41.38,2199.67,6e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,44.69,2199.67,0.000115,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,17.93,2477.44,1.83e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,19.93,2477.44,2.67e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,21.93,2477.44,4.12e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,A,Annealed at 4000 F for 1h,creep rate,EXP,24.07,2477.44,7.34e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,29.1,1852.44,8.08e-07,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,29.1,1921.89,1.7e-06,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,29.1,1991.33,3.5e-06,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,29.1,2060.78,9.81e-06,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,22.07,2213.56,5.43e-06,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,22.07,2271.89,1.81e-05,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,22.07,2119.11,1.65e-06,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,EBM+A,Annealed at 3600 F for 1h,creep rate,EXP,22.07,2196.89,5.51e-06,None,%/s,T5.5,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,75.86,1923.0,0.0030277778,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,75.86,1923.0,0.0014444444,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,75.86,1923.0,0.0038888889,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,68.97,1923.0,0.0017222222,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,68.97,1923.0,0.0036111111,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,55.17,1923.0,0.0004166667,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,48.28,1923.0,0.0002138889,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,48.28,1923.0,0.000175,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,41.38,1923.0,5.27778e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,41.38,1923.0,3.61111e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,41.38,1923.0,6.94444e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,41.38,1923.0,8.88889e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,27.59,1923.0,9.1667e-06,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,27.59,2473.0,0.0017222222,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,27.59,2473.0,0.0010555556,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,24.14,2473.0,0.0013472222,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,19.31,2473.0,0.0001055556,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,13.79,2473.0,5.55556e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,13.79,2473.0,3.88889e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,10.34,2473.0,5.55556e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,9.66,2473.0,1.19444e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,9.66,2473.0,2.22222e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,9.66,2473.0,6.11111e-05,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP,None,creep rate,EXP,6.9,2473.0,1.9444e-06,None,%/s,T5.13,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,55.17,1873.0,4.6667e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,20.69,2273.0,2.8333e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,20.69,2273.0,4.3333e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,17.93,2473.0,4.83333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,17.93,2473.0,6.66667e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,16.55,2473.0,2e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,15.17,2473.0,9.3333e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,13.79,2473.0,8.6667e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,13.79,2473.0,3.5e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,12.41,2473.0,3e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,12.41,2473.0,1.3167e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,11.03,2473.0,1.4167e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.97,2473.0,2.167e-07,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,17.24,2673.0,0.000145,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,14.48,2673.0,5.66667e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,13.79,2673.0,5.83333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,13.1,2673.0,4.33333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,11.03,2673.0,1.66667e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,11.03,2673.0,2.16667e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,11.03,2673.0,1.63333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2673.0,1.03333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2673.0,6.5e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2673.0,7.1667e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2673.0,6e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2673.0,4e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,9.66,2673.0,7.3333e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,9.66,2673.0,1.03333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.28,2673.0,2.8333e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,6.9,2673.0,4.5e-07,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,6.61,2673.0,5e-07,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.28,3073.0,8.83333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.28,3073.0,7.33333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.28,3073.0,0.0001233333,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,6.9,3073.0,3.33333e-05,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,6.21,3073.0,8.3333e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,6.21,3073.0,9.6667e-06,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,4.48,3073.0,4e-07,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,3.79,3073.0,2.833e-07,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,PMP+A,Annealed for 2 hours at test temperature,creep rate,EXP,3.45,3073.0,1.667e-07,None,%/s,T5.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,55.17,1873.0,4.8333e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,48.28,1873.0,2.1667e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,41.38,1873.0,8.5e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,33.1,1873.0,2.5e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,33.1,1873.0,2.333e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,33.1,2073.0,3.1667e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,27.59,2073.0,1.0167e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,20.69,2073.0,2.333e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,20.69,2273.0,4e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,17.24,2273.0,1.6333e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,13.79,2273.0,7.667e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2273.0,2.5e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,13.79,2473.0,6.6667e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,12.41,2473.0,3.8333e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2473.0,1.6e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.28,2473.0,5.167e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,6.9,2473.0,2.5e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,10.34,2673.0,1.66667e-05,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.28,2673.0,6.6667e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,6.9,2673.0,3.3333e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,5.52,2673.0,1.1667e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,4.48,2673.0,5.5e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,8.28,2873.0,8.33333e-05,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,5.52,2873.0,1.41667e-05,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,4.48,2873.0,4.3333e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,3.45,2873.0,1.8333e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,2.76,2873.0,6.333e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,3.45,3073.0,1.38333e-05,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,2.76,3073.0,4e-06,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,2.07,3073.0,8.167e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,1.72,3073.0,2.5e-07,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W100,None,AC+A,Annealed for 2 hours at test temperature,creep rate,EXP,2.07,3273.0,1.11667e-05,None,%/s,T5.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.2735 C0.366075 Ta0.360432,None,PMP,None,creep rate,EXP,155.17,1755.22,0.0001116667,None,%/s,T5.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.2735 C0.366075 Ta0.360432,None,PMP,None,creep rate,EXP,120.69,1755.22,2.5e-05,None,%/s,T5.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.2735 C0.366075 Ta0.360432,None,PMP,None,creep rate,EXP,103.45,1755.22,1.52778e-05,None,%/s,T5.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.2735 C0.366075 Ta0.360432,None,PMP,None,creep rate,EXP,62.07,1755.22,1.75e-05,None,%/s,T5.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,68.97,1923.0,7.22222e-05,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,55.17,1923.0,2.66667e-05,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,41.38,1923.0,5e-06,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,27.59,2473.0,6.38889e-05,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,13.79,2473.0,0.0001055556,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,6.9,2473.0,3.05556e-05,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,6.9,2473.0,4.72222e-05,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,W99.1814 Hf0.513441 C0.305208,None,?,None,creep rate,EXP,4.14,2473.0,1.80556e-05,None,%/s,T5.25,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo70.1669 W19.9733 Re9.85972,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,41.38,1873.0,1e-06,None,%/s,T5.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo65.8235 W20.6107 Re13.5658,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,41.38,1873.0,1.2833e-06,None,%/s,T5.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo61.1938 W21.29 Re17.5162,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,33.05,1873.0,1.1333e-06,None,%/s,T5.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo56.2485 W22.0157 Re21.7358,Alpha+Sigma,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,33.05,1873.0,2.1667e-06,None,%/s,T5.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo74.3413 Re15.9596 W9.69907,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,33.05,1873.0,3.5e-06,None,%/s,T5.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo70.2561 Re19.7445 W9.99937,Alpha+Sigma,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,33.05,1873.0,3.6667e-06,None,%/s,T5.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo70.1669 W19.9733 Re9.85972,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,5.49,2473.0,2.667e-07,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo65.8235 W20.6107 Re13.5658,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,5.49,2473.0,1e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo61.1938 W21.29 Re17.5162,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,5.49,2473.0,2.6667e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo56.2485 W22.0157 Re21.7358,Alpha+Sigma,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,5.49,2473.0,4.8333e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo78.1883 Re12.3954 W9.41628,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,5.49,2473.0,1.8333e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo74.3413 Re15.9596 W9.69907,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,5.49,2473.0,3.5e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo70.2561 Re19.7445 W9.99937,Alpha+Sigma,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,5.49,2473.0,4.3333e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo65.8235 W20.6107 Re13.5658,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,3.43,2473.0,1.133e-07,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo61.1938 W21.29 Re17.5162,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,3.43,2473.0,1.6167e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo74.3413 Re15.9596 W9.69907,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,3.43,2473.0,1.6667e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo70.2561 Re19.7445 W9.99937,Alpha+Sigma,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,3.43,2473.0,2.6667e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo61.1938 W21.29 Re17.5162,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,2.06,2473.0,7.833e-07,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo74.3413 Re15.9596 W9.69907,Alpha,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,2.06,2473.0,8.333e-07,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo70.2561 Re19.7445 W9.99937,Alpha+Sigma,PMP+R+A,Sintering at 2600C. Rolling to 0.02inch-thick. Annealing at 1400C,creep rate,EXP,2.06,2473.0,1.3833e-06,None,%/s,T5.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,AC+A,Prior anneal for 2 hours at test temperature,creep rate,EXP,41.38,1873.0,3.8333e-06,None,%/s,T5.36,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,AC+A,Prior anneal for 2 hours at test temperature,creep rate,EXP,33.05,1873.0,2.3333e-06,None,%/s,T5.36,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,AC+A,Prior anneal for 2 hours at test temperature,creep rate,EXP,5.49,2473.0,2e-06,None,%/s,T5.36,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,AC+A,Prior anneal for 2 hours at test temperature,creep rate,EXP,3.43,2473.0,1.833e-07,None,%/s,T5.36,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,33.05,1873.0,8.333e-07,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,33.05,1873.0,1e-06,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,33.05,1873.0,8.333e-07,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,33.05,1873.0,6.333e-07,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,5.49,2473.0,2.667e-07,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,5.49,2473.0,2.667e-07,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,5.49,2473.0,3.333e-07,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo45.2273 W31.4701 Re23.3026,None,PMP,Prior anneal for 2 hours at test temperature,creep rate,EXP,5.49,2473.0,4e-07,None,%/s,T5.37,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,82.76,1873.0,7.6667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,68.97,1873.0,4.1667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,55.17,1873.0,2.8333e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,41.38,1873.0,8e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,33.1,1873.0,4.167e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,25.86,1873.0,2.667e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,10.34,1873.0,4.83e-08,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,6.9,1873.0,2.67e-08,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,34.48,2473.0,2e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,20.69,2473.0,3.3333e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,17.24,2473.0,2e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2473.0,8.5e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,11.72,2473.0,6e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,6.9,2473.0,2.167e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,20.69,2873.0,5e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,20.69,2873.0,0.00011,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,20.69,2873.0,4e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,17.24,2873.0,1.65e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,16.55,2873.0,1.63333e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,15.17,2873.0,1.05e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2873.0,8e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2873.0,6.6667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.1,2873.0,6.6667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,12.41,2873.0,5.8333e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,11.72,2873.0,5.1667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,10.34,2873.0,3.5e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,10.34,2873.0,5e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,8.97,2873.0,2.1667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,8.97,2873.0,2.1667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,6.9,2873.0,1.3167e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,5.52,2873.0,7.833e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,5.17,2873.0,9.333e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,4.83,2873.0,6.667e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,2.76,2873.0,2.5e-07,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,3073.0,4e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,3073.0,3e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,10.34,3073.0,1.83333e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,10.34,3073.0,1.2e-05,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,6.9,3073.0,5.1667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,6.9,3073.0,5.6667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,4.14,3073.0,2.1667e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,4.14,3073.0,2.3333e-06,None,%/s,T6.2A,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,68.97,1873.0,2.333e-07,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,55.17,1873.0,1.267e-07,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,41.38,1873.0,3.83e-08,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,33.1,1873.0,1.83e-08,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,33.1,2473.0,3.1667e-06,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,27.59,2473.0,1.15e-06,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,20.69,2473.0,3e-07,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2473.0,6e-08,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,10.34,2473.0,2.67e-08,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2873.0,1.6667e-06,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,10.34,2873.0,3.333e-07,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+RX+A,Annealed 2 hours at test temperature,creep rate,EXP,5.52,2873.0,4e-08,None,%/s,T6.2B,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,68.97,1873.0,1.4333e-06,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,41.38,1873.0,3.5e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,27.59,1873.0,1.567e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,41.38,1873.0,2.5e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,41.38,1873.0,2.333e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,33.1,2473.0,9.5e-06,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2473.0,1.25e-06,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,6.9,2473.0,2.667e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2473.0,5.333e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at test temperature,creep rate,EXP,13.79,2473.0,5e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at 2400 C,creep rate,EXP,13.79,2473.0,5.167e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Re100,None,PMP+A,Annealed 2 hours at 2400 C,creep rate,EXP,13.79,2473.0,4.5e-07,None,%/s,T6.3,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC+RX,None,creep rate,EXP,120.69,921.89,5.83e-08,None,%/s,T7.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC+RX,None,creep rate,EXP,103.45,921.89,5.6e-09,None,%/s,T7.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC+RX,None,creep rate,EXP,103.45,921.89,2.22e-08,None,%/s,T7.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC+RX,None,creep rate,EXP,206.9,755.22,1.11e-08,None,%/s,T7.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC+RX,None,creep rate,EXP,275.86,755.22,1.333e-07,None,%/s,T7.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC+RX,None,creep rate,EXP,68.97,1088.56,8.3e-09,None,%/s,T7.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,110.34,1023.0,0.0027222222,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,96.55,1023.0,3.13889e-05,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,82.76,1023.0,4.0278e-06,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,75.86,1273.0,0.0008833333,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,68.97,1273.0,0.0003888889,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,62.07,1273.0,0.0001222222,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,55.17,1273.0,9.44444e-05,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,48.28,1473.0,0.02375,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,34.48,1473.0,0.0024166667,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,24.14,1473.0,0.0001333333,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,17.24,1473.0,2.77778e-05,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,17.24,1673.0,0.0007222222,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,12.41,1673.0,0.0002777778,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+RX,Cold Reduced 75%. Recrystallized by 1h at 1200°C,creep rate,EXP,10.34,1673.0,0.0001611111,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+SR,Cold Reduced 95%. Stress Relieved by 0.25h at 750°C,creep rate,EXP,372.41,298.0,8.05556e-05,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+SR,Cold Reduced 95%. Stress Relieved by 0.25h at 750°C,creep rate,EXP,365.52,298.0,0.0001916667,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+SR,Cold Reduced 95%. Stress Relieved by 0.25h at 750°C,creep rate,EXP,362.07,298.0,0.0002388889,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+SR,Cold Reduced 95%. Stress Relieved by 0.25h at 750°C,creep rate,EXP,296.55,773.0,1.111e-07,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+SR,Cold Reduced 95%. Stress Relieved by 0.25h at 750°C,creep rate,EXP,224.14,1023.0,0.0006388889,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM+CW+SR,Cold Reduced 95%. Stress Relieved by 0.25h at 750°C,creep rate,EXP,189.66,1023.0,3.05556e-05,None,%/s,T7.17,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta98.5217 C1.47833,None,EBM+RX,None,creep rate,EXP,137.93,1023.0,3.8889e-06,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta98.5217 C1.47833,None,EBM+RX,None,creep rate,EXP,172.41,1023.0,6.6667e-06,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta98.5217 C1.47833,None,EBM+RX,None,creep rate,EXP,41.38,1473.0,2.22222e-05,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta98.5217 C1.47833,None,EBM+RX,None,creep rate,EXP,68.97,1473.0,4.44444e-05,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta98.5217 C1.47833,None,EBM+RX,None,creep rate,EXP,103.45,1473.0,0.0111111111,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.7101 N0.289893,None,EBM+RX,None,creep rate,EXP,124.14,1023.0,0.0001388889,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.7101 N0.289893,None,EBM+RX,None,creep rate,EXP,137.93,1023.0,0.0013055556,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.7101 N0.289893,None,EBM+RX,None,creep rate,EXP,144.83,1023.0,0.0021388889,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.7101 N0.289893,None,EBM+RX,None,creep rate,EXP,31.03,1473.0,0.0002777778,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.7101 N0.289893,None,EBM+RX,None,creep rate,EXP,41.38,1473.0,0.0018611111,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.3703 O0.629706,None,EBM+RX,None,creep rate,EXP,89.66,1023.0,8.3333e-06,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.3703 O0.629706,None,EBM+RX,None,creep rate,EXP,103.45,1023.0,0.0006944444,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.3703 O0.629706,None,EBM+RX,None,creep rate,EXP,120.69,1023.0,0.0056666667,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.3703 O0.629706,None,EBM+RX,None,creep rate,EXP,137.93,1023.0,0.0286111111,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.3703 O0.629706,None,EBM+RX,None,creep rate,EXP,20.69,1473.0,0.0001083333,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.3703 O0.629706,None,EBM+RX,None,creep rate,EXP,34.48,1473.0,0.0011666667,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta99.3703 O0.629706,None,EBM+RX,None,creep rate,EXP,48.28,1473.0,0.0023055556,None,%/s,T7.20,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,4.64,1963.0,2e-06,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,12.84,1963.0,4.77058e-05,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,24.8,1963.0,0.000838435,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,1.13,2353.0,1.931e-07,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,4.62,2353.0,4.71487e-05,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,8.01,2353.0,0.0002171374,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,7.4,2353.0,0.0002947052,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,8.06,2353.0,0.0003816213,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,1.54,2663.0,5.9636e-06,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,3.13,2663.0,5.89397e-05,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,4.33,2663.0,0.0002714398,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,8.17,2663.0,0.0046053783,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,0.28,2923.0,1.5812e-06,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,0.33,2923.0,2.5898e-06,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,0.64,2923.0,5.5577e-06,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,EBM,None,creep rate,EXP,1.45,2923.0,8.89159e-05,None,%/s,F7.30,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,19.11,1477.0,1.331e-07,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,27.44,1477.0,2.267e-07,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,24.06,1477.0,4.515e-07,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,31.17,1477.0,1.4953e-06,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,34.62,1477.0,2.0591e-06,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,41.71,1477.0,3.5512e-06,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,41.57,1477.0,6.6615e-06,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,10.41,1700.0,1.289e-07,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,10.41,1700.0,1.907e-07,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,17.13,1700.0,1.1281e-06,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,23.99,1700.0,1.22375e-05,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,4.44,1922.0,3.81e-08,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,4.45,1922.0,1.622e-07,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,7.49,1922.0,8.83e-07,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta100,None,AC,None,creep rate,EXP,10.99,1922.0,4.0263e-06,None,%/s,F7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta90.1418 W9.85819,None,AC+RX,None,creep rate,EXP,131.03,1755.22,0.0014722222,None,%/s,T7.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta90.1418 W9.85819,None,AC+RX,None,creep rate,EXP,113.79,1755.22,0.0009722222,None,%/s,T7.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta90.1418 W9.85819,None,AC+RX,None,creep rate,EXP,55.17,2199.67,0.0100277778,None,%/s,T7.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta90.1418 W9.85819,None,AC+RX,None,creep rate,EXP,38.62,2199.67,0.0020277778,None,%/s,T7.25,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta90.1418 W9.85819,None,AC+RX,None,creep rate,EXP,109.66,1366.33,1.8e-09,None,%/s,T7.27,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Ta90.1418 W9.85819,None,AC+RX,None,creep rate,EXP,55.17,1477.44,2.6e-09,None,%/s,T7.27,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,482.76,1255.0,2.08333e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,413.79,1255.0,1.02778e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,344.83,1255.0,3.0556e-06,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,344.83,1366.0,0.0001427778,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,289.66,1366.0,3.52778e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,241.38,1366.0,2.47222e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,206.9,1366.0,6.6667e-06,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,193.1,1366.0,7.2222e-06,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,206.9,1477.0,0.000125,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,172.41,1477.0,3.25e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,137.93,1477.0,1.27778e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,120.69,1477.0,5.2778e-06,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,77.93,1700.0,7.91667e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,68.97,1922.0,0.0005,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,44.83,1922.0,0.0002458333,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC,None,creep rate,EXP,31.03,1922.0,3.33333e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC+A,Annealed 1 hr at 1500 C,creep rate,EXP,289.66,1366.0,1.19444e-05,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.036 W9.48 Hf2.43 Nb0.038 C0.016,None,AC+A,Annealed 1 hr at 1500 C,creep rate,EXP,206.9,1477.0,9.7222e-06,None,%/s,T7.34,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,534.36,1366.33,0.0002638889,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,517.13,1366.33,6.75e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,482.65,1366.33,2.88889e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,448.18,1477.44,0.0001166667,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,413.7,1477.44,5e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,413.7,1477.44,4.16667e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,413.7,1477.44,0.0004222222,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,379.23,1477.44,0.0004638889,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,379.23,1477.44,2.36111e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,379.23,1477.44,2.61111e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,344.75,1477.44,7.75e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,310.28,1477.44,0.000225,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,137.9,1921.89,0.0098611111,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,120.66,1921.89,0.0029444444,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,120.66,1921.89,0.0020555556,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,120.66,1921.89,0.0021944444,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,103.43,1921.89,0.0012777778,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,103.43,1921.89,0.0010055556,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,103.43,1921.89,0.0007694444,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,103.43,1921.89,0.0015833333,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,310.28,1588.56,0.0002416667,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,293.04,1588.56,0.0002972222,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,275.8,1588.56,0.0001555556,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,275.8,1588.56,0.0001694444,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,275.8,1588.56,8.05556e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,275.8,1588.56,0.0012194444,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,275.8,1588.56,0.0007083333,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,275.8,1588.56,0.0195833333,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,258.56,1588.56,0.0001672222,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,258.56,1588.56,0.0001847222,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,258.56,1588.56,0.0004327778,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,241.33,1588.56,0.0001444444,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,241.33,1588.56,0.0001277778,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,241.33,1588.56,0.000225,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,224.09,1588.56,3.58333e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,224.09,1588.56,1.33333e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,224.09,1588.56,6.86111e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,206.85,1588.56,2.44444e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta87.0875 W10.4 Hf2.5 C0.0125,None,AC+RX,Recystalized 1 Hour at 3000°F,creep rate,EXP,206.85,1588.56,3.5e-05,None,%/s,T7.35,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,106.69,1366.0,0.0,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,134.26,1366.0,1e-10,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,53.61,1477.0,4e-10,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,77.46,1477.0,1.2e-09,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,103.29,1477.0,2.8e-09,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,16.26,1588.0,4e-10,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,25.78,1588.0,1.6e-09,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,38.19,1588.0,3.8e-09,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,50.36,1588.0,8.1e-09,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,15.84,1699.0,7.5e-09,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Ta88.9687 W9.11 Hf1.91 C0.0113,None,AC+HT,1-h heat treatment at 1538 C,creep rate,EXP,24.88,1699.0,1.8e-08,None,%/s,F7.67,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,137.93,1366.33,0.01185,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,117.24,1366.33,0.0020666667,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,96.55,1366.33,0.0007283333,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,82.76,1366.33,7.11667e-05,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,62.07,1366.33,2.3167e-06,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,206.9,1255.22,0.0364883333,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,165.52,1255.22,0.0034566667,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,137.93,1255.22,0.00043,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,103.45,1255.22,6.95e-05,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,96.55,1255.22,2.73333e-05,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,248.28,1144.11,0.0042666667,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,234.48,1144.11,0.0064533333,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,206.9,1144.11,0.0007633333,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,179.31,1144.11,0.000255,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,151.72,1144.11,5.5e-05,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+RX,None,creep rate,EXP,124.14,1144.11,1.16667e-05,None,%/s,T8.1,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+SR,Stress-relieved (1 hour at 1800 F),creep rate,EXP,258.56,1144.11,0.0004722222,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+SR,Stress-relieved (1 hour at 1800 F),creep rate,EXP,206.85,1144.11,3.3333e-06,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+SR,Stress-relieved (1 hour at 1800 F),creep rate,EXP,144.8,1255.22,1e-05,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+SR,Stress-relieved (1 hour at 1800 F),creep rate,EXP,82.74,1366.33,6.3889e-06,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+RX,Recrystallized (1 hour at 2150 F,creep rate,EXP,153.76,1144.11,0.0033888889,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+RX,Recrystallized (1 hour at 2150 F,creep rate,EXP,151.69,1144.11,0.0029166667,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+RX,Recrystallized (1 hour at 2150 F,creep rate,EXP,120.66,1144.11,0.0002638889,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+RX,Recrystallized (1 hour at 2150 F,creep rate,EXP,96.53,1144.11,1.86111e-05,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+RX,Recrystallized (1 hour at 2150 F,creep rate,EXP,103.43,1255.22,0.0019444444,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+RX,Recrystallized (1 hour at 2150 F,creep rate,EXP,82.74,1255.22,7.77778e-05,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+at%,Mo99.985 C0.015,None,AC+RX,Recrystallized (1 hour at 2150 F,creep rate,EXP,82.74,1366.33,0.0008333333,None,%/s,T8.2,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,20.69,1873.0,1.63333e-05,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,17.26,1873.0,6e-06,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,13.83,1873.0,2.6667e-06,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,10.3,1873.0,4.833e-07,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,8.24,1873.0,2.333e-07,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,6.86,1873.0,1.133e-07,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,5.49,1873.0,3.83e-08,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,3.43,1873.0,4.8e-09,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,3.43,2473.0,1.83333e-05,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,2.06,2473.0,2.6667e-06,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.37,2473.0,2.167e-07,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,0.98,2473.0,4.5e-08,None,%/s,T8.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,68.94,1473.0,6e-05,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,55.11,1473.0,8e-06,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,41.38,1473.0,1.8333e-06,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,33.05,1473.0,6.667e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,27.56,1473.0,2.167e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,20.69,1473.0,4e-08,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,13.83,1873.0,3e-06,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,10.3,1873.0,8.333e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,10.3,1873.0,8e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,8.28,1873.0,3e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,6.89,1873.0,1.133e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,3.45,2473.0,2e-05,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,2.76,2473.0,6.6667e-06,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,2.07,2473.0,1.8333e-06,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.73,2473.0,6.833e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.38,2473.0,1.2e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.38,2473.0,1.417e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,2.07,2673.0,3.33333e-05,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.86,2673.0,1.66667e-05,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.73,2673.0,2e-05,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.38,2673.0,2.3333e-06,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.18,2673.0,7.333e-07,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,0.82,2673.0,4.33e-08,None,%/s,T8.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,17.26,1873.0,7.5e-06,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,13.83,1873.0,2.8333e-06,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,10.3,1873.0,8.333e-07,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,8.28,1873.0,2.333e-07,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,6.89,1873.0,1.167e-07,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,3.1,2473.0,1.48333e-05,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,2.41,2473.0,4.6667e-06,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.93,2473.0,1.55e-06,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.59,2473.0,5.167e-07,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo100,None,AC+MW,None,creep rate,EXP,1.38,2473.0,3.167e-07,None,%/s,T8.11,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,551.72,1144.11,5.83333e-05,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,496.55,1144.11,7.7778e-06,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,448.28,1144.11,4.444e-07,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,482.76,1255.22,6.66667e-05,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,427.59,1255.22,1.38889e-05,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,379.31,1255.22,4.4444e-06,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,310.34,1366.33,2.77778e-05,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+SR,None,creep rate,EXP,206.9,1366.33,1.0278e-06,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+RX,None,creep rate,EXP,227.59,1144.11,0.0001527778,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+RX,None,creep rate,EXP,172.41,1255.22,1.75e-05,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+RX,None,creep rate,EXP,148.28,1366.33,1.72222e-05,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+R,None,creep rate,EXP,103.45,1588.56,0.00025,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.7997 C0.143597 Zr0.0567187,None,AC+R,None,creep rate,EXP,68.97,1588.56,1.66667e-05,None,%/s,T8.18,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.3102 Zr0.51441 C0.175419,None,AC+SR,None,creep rate,EXP,413.79,1255.22,2.36111e-05,None,%/s,T8.19,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.3102 Zr0.51441 C0.175419,None,AC+SR,None,creep rate,EXP,103.45,1588.56,0.0003055556,None,%/s,T8.19,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.3102 Zr0.51441 C0.175419,None,AC+RX,None,creep rate,EXP,275.86,1255.22,0.0013888889,None,%/s,T8.19,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.3102 Zr0.51441 C0.175419,None,AC+RX,None,creep rate,EXP,241.38,1255.22,0.0001138889,None,%/s,T8.19,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.3102 Zr0.51441 C0.175419,None,AC+RX,None,creep rate,EXP,68.97,1588.56,3.33333e-05,None,%/s,T8.19,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.1754 Nb1.45061 C0.37403,None,SR,Stress-relieved, 1 hour 2100 F,creep rate,EXP,517.24,1255.22,9.16667e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.1754 Nb1.45061 C0.37403,None,SR,Stress-relieved, 1 hour 2100 F,creep rate,EXP,482.76,1255.22,2.22222e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.1754 Nb1.45061 C0.37403,None,RX,Recrystallized, 1 hour 2550 F,creep rate,EXP,268.97,1255.22,0.0002555556,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.1754 Nb1.45061 C0.37403,None,RX,Recrystallized, 1 hour 2550 F,creep rate,EXP,241.38,1255.22,2.58333e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo96.5673 C1.96177 Nb1.47095,None,SR,Stress-relieved, 1 hour 2100 F,creep rate,EXP,606.9,1255.22,9.72222e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo96.5673 C1.96177 Nb1.47095,None,SR,Stress-relieved, 1 hour 2100 F,creep rate,EXP,551.72,1255.22,5.55556e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo96.5673 C1.96177 Nb1.47095,None,RX,Recrystallized, 1 hour 2550 F,creep rate,EXP,296.55,1255.22,4.16667e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.1754 Nb1.45061 C0.37403,None,SR,Stress-relieved, 1 hour 2100 F,creep rate,EXP,82.76,1588.56,8.33333e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.1754 Nb1.45061 C0.37403,None,RX,Recrystallized, 1 hour 2550 F,creep rate,EXP,103.45,1588.56,0.0009722222,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.1754 Nb1.45061 C0.37403,None,RX,Recrystallized, 1 hour 2550 F,creep rate,EXP,75.86,1588.56,0.0003333333,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo96.5673 C1.96177 Nb1.47095,None,SR,Stress-relieved, 1 hour 2100 F,creep rate,EXP,172.41,1588.56,0.0001666667,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo96.5673 C1.96177 Nb1.47095,None,SR,Stress-relieved, 1 hour 2100 F,creep rate,EXP,124.14,1588.56,5e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo96.5673 C1.96177 Nb1.47095,None,RX,Recrystallized, 1 hour 2550 F,creep rate,EXP,110.34,1588.56,0.0005,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo96.5673 C1.96177 Nb1.47095,None,RX,Recrystallized, 1 hour 2550 F,creep rate,EXP,86.21,1588.56,1.94444e-05,None,%/s,T8.21,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.9169 Ti0.916401 C0.16673,None,AC+R,None,creep rate,EXP,103.45,1588.56,0.0010555556,None,%/s,P8.71,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo98.9169 Ti0.916401 C0.16673,None,AC+R,None,creep rate,EXP,68.97,1588.56,1.3889e-06,None,%/s,P8.71,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,541.38,921.89,4.444e-07,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,482.76,1033.0,3.0556e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,586.21,1144.11,0.0011111111,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,517.24,1144.11,6.11111e-05,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,482.76,1144.11,8.6111e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,448.28,1144.11,8.3333e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,482.76,1255.22,0.0008888889,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,413.79,1255.22,5.83333e-05,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,379.31,1255.22,1.02778e-05,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,344.83,1255.22,3.3333e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,331.03,1255.22,8.333e-07,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,310.34,1255.22,3.889e-07,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,344.83,1366.33,0.0001444444,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,206.9,1366.33,1.1667e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,186.21,1366.33,2.5e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,172.41,1366.33,1.7222e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,SR,None,creep rate,EXP,137.93,1366.33,1.1111e-06,None,%/s,T8.23,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,262.07,921.89,1.111e-07,None,%/s,T8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,248.28,921.89,1.389e-07,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,241.38,1033.0,4.7222e-06,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,241.38,1144.11,5.27778e-05,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,234.48,1144.11,1.02778e-05,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,231.03,1144.11,7.5e-06,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,213.79,1255.22,0.0016111111,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,200.0,1255.22,8.88889e-05,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,189.66,1255.22,3.8889e-06,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,172.41,1366.33,0.0016666667,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,137.93,1366.33,3.05556e-05,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,124.14,1366.33,6.3889e-06,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,34.48,1588.56,3.6111e-06,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,20.69,1588.56,6.389e-07,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,13.79,1588.56,8.33e-08,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Mo99.0029 Ti0.997145,None,RX,None,creep rate,EXP,6.9,1588.56,3.06e-08,None,%/s,P8.24,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,SR,None,creep rate,EXP,586.21,1255.22,9.44444e-05,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,SR,None,creep rate,EXP,551.72,1255.22,2.22222e-05,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,SR,None,creep rate,EXP,241.38,1588.56,0.0004166667,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,SR,None,creep rate,EXP,186.21,1588.56,0.0001222222,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,RX,None,creep rate,EXP,275.86,1255.22,1.3889e-06,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,RX,None,creep rate,EXP,241.38,1255.22,1.1111e-06,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,RX,None,creep rate,EXP,137.93,1588.56,0.00025,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.3715 Ti0.912624 C0.632546 Zr0.083282,None,RX,None,creep rate,EXP,110.34,1588.56,0.0001277778,None,%/s,T8.28,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,SR,None,creep rate,EXP,482.76,1255.22,3.61111e-05,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,SR,None,creep rate,EXP,482.76,1255.22,9.1667e-06,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,SR,None,creep rate,EXP,496.55,1255.22,8.3333e-06,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,SR,None,creep rate,EXP,531.03,1255.22,2.5e-05,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,RX,None,creep rate,EXP,255.17,1255.22,1.3889e-06,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,RX,None,creep rate,EXP,275.86,1255.22,0.0006944444,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,RX,None,creep rate,EXP,275.86,1255.22,1.02778e-05,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,SR,None,creep rate,EXP,344.83,1366.33,2.778e-07,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,SR,None,creep rate,EXP,413.79,1366.33,5e-06,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,RX,None,creep rate,EXP,186.21,1366.33,1.63889e-05,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,RX,None,creep rate,EXP,227.59,1366.33,1.94444e-05,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,RX,None,creep rate,EXP,24.14,1921.89,1.94444e-05,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,RX,None,creep rate,EXP,34.48,1921.89,0.0006111111,None,%/s,T8.30,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,AC+MW,None,creep rate,EXP,8.42,2273.0,1.1581e-05,None,%/s,F8.47,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,AC+MW,None,creep rate,EXP,11.04,2273.0,6.34508e-05,None,%/s,F8.47,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,AC+MW,None,creep rate,EXP,3.12,2473.0,1.31115e-05,None,%/s,F8.47,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,AC+MW,None,creep rate,EXP,3.64,2473.0,2.3374e-05,None,%/s,F8.47,Conway_1969_CreepRuptureDataRefractoryMetals
+TZM,Mo98.9192 Ti0.997104 Zr0.0837119,None,AC+MW,None,creep rate,EXP,4.25,2473.0,5.33161e-05,None,%/s,F8.47,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,33.05,1873.0,3.6667e-06,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,20.69,1873.0,6.333e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,17.26,1873.0,3.333e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,13.83,1873.0,1.383e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,5.51,2473.0,8.6667e-06,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,4.48,2473.0,8.333e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,3.45,2473.0,1.083e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5Re,Mo97.3598 Re2.64016,None,PMP+MW,None,creep rate,EXP,2.76,2473.0,3.83e-08,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5W,Mo97.3268 W2.67324,None,PMP+MW,None,creep rate,EXP,20.69,1873.0,8e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5W,Mo97.3268 W2.67324,None,PMP+MW,None,creep rate,EXP,13.83,1873.0,1.833e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5W,Mo97.3268 W2.67324,None,PMP+MW,None,creep rate,EXP,5.51,2473.0,4.5e-06,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-5W,Mo97.3268 W2.67324,None,PMP+MW,None,creep rate,EXP,3.45,2473.0,1.833e-07,None,%/s,T8.39,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-30W,Mo81.7222 W18.2778,None,AC+MW,None,creep rate,EXP,41.38,1873.0,3.33333e-05,None,%/s,T8.43,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-30W,Mo81.7222 W18.2778,None,AC+MW,None,creep rate,EXP,33.05,1873.0,1.2e-05,None,%/s,T8.43,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-30W,Mo81.7222 W18.2778,None,AC+MW,None,creep rate,EXP,24.12,1873.0,2.5e-06,None,%/s,T8.43,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-30W,Mo81.7222 W18.2778,None,AC+MW,None,creep rate,EXP,6.89,2473.0,2e-05,None,%/s,T8.43,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-30W,Mo81.7222 W18.2778,None,AC+MW,None,creep rate,EXP,5.51,2473.0,7.6667e-06,None,%/s,T8.43,Conway_1969_CreepRuptureDataRefractoryMetals
+WZM,Mo83.8468 W15.7251 C0.300867 Zr0.127241,None,RX,Recrystallized 1 h 2600 F,creep rate,EXP,268.97,1255.22,0.0015333333,None,%/s,T8.44,Conway_1969_CreepRuptureDataRefractoryMetals
+WZM,Mo83.8468 W15.7251 C0.300867 Zr0.127241,None,RX,Recrystallized 1 h 2600 F,creep rate,EXP,264.83,1255.22,0.0005166667,None,%/s,T8.44,Conway_1969_CreepRuptureDataRefractoryMetals
+WZM,Mo83.8468 W15.7251 C0.300867 Zr0.127241,None,RX,Recrystallized 1 h 2600 F,creep rate,EXP,234.48,1255.22,6.1111e-06,None,%/s,T8.44,Conway_1969_CreepRuptureDataRefractoryMetals
+WZM,Mo83.8468 W15.7251 C0.300867 Zr0.127241,None,RX,Recrystallized 1 h 2600 F,creep rate,EXP,110.34,1588.56,0.0001722222,None,%/s,T8.44,Conway_1969_CreepRuptureDataRefractoryMetals
+WZM,Mo83.8468 W15.7251 C0.300867 Zr0.127241,None,RX,Recrystallized 1 h 2600 F,creep rate,EXP,89.66,1588.56,2.22222e-05,None,%/s,T8.44,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,41.38,1873.0,1.11667e-05,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,33.05,1873.0,2.5e-06,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,27.56,1873.0,2e-06,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,17.26,1873.0,5.833e-07,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,13.83,1873.0,2.833e-07,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,6.86,2473.0,1.6e-05,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,5.49,2473.0,5e-06,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,3.43,2473.0,1.6e-06,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,2.75,2473.0,9.667e-07,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,2.06,2473.0,6e-07,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,1.37,2473.0,2.667e-07,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,2.75,2673.0,6e-06,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,2.06,2673.0,3.3333e-06,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,0.98,2673.0,1.35e-06,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+Mo-50Re,Mo65.9964 Re34.0036,None,PMP+R+A,Anrealed at test temperature for 2 hours,creep rate,EXP,0.69,2673.0,8.333e-07,None,%/s,T8.46,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,13.79,1223.0,3.0833e-06,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,20.69,1223.0,1.60833e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,27.59,1223.0,5.83333e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,34.48,1223.0,0.0001533333,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,13.79,1273.0,5.25e-06,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,17.24,1273.0,1.38333e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,20.69,1273.0,9.5e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,20.69,1273.0,3.27778e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,24.14,1273.0,0.0001236111,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,10.34,1323.0,5.2778e-06,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,17.24,1323.0,4.25e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,10.34,1373.0,1.52778e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,10.34,1423.0,2.30556e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb100,None,MW+RX,None,creep rate,EXP,10.34,1473.0,3.63889e-05,None,%/s,T9.4,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,68.97,1255.22,4.722e-07,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,137.93,1255.22,1.6111e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,172.41,1255.22,5.5556e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,206.9,1255.22,1.11111e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,206.9,1255.22,1.52778e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,241.38,1255.22,2.44444e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,241.38,1255.22,3.61111e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,241.38,1255.22,1.61111e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,120.69,1366.33,7.2222e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,137.93,1366.33,3.33333e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+CR,Nominal 50 per cent reduction,creep rate,EXP,137.93,1366.33,5e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+RX,None,creep rate,EXP,137.93,1255.22,1.52778e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+RX,None,creep rate,EXP,193.1,1255.22,2.2222e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+RX,None,creep rate,EXP,193.1,1255.22,1.8333e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+RX,None,creep rate,EXP,241.38,1255.22,3.1667e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+RX,None,creep rate,EXP,137.93,1366.33,7.2222e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+RX,None,creep rate,EXP,137.93,1366.33,9.7222e-06,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,PMP+RX,None,creep rate,EXP,172.41,1366.33,6.58333e-05,None,%/s,T9.7,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,103.45,1255.0,0.0002277778,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,82.76,1255.0,5.55556e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,68.97,1255.0,3.58333e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,58.62,1255.0,2.80556e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,48.28,1255.0,5.0556e-06,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,44.83,1255.0,4.7222e-06,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,31.03,1255.0,4.222e-07,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,41.38,1477.0,0.0006527778,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,34.48,1477.0,0.0003194444,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,27.59,1477.0,8.05556e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,20.69,1477.0,1.46389e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,18.62,1477.0,8.8333e-06,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1200 C,creep rate,EXP,68.97,1255.0,2.22222e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1400 C,creep rate,EXP,68.97,1255.0,4.167e-07,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1500 C,creep rate,EXP,68.97,1255.0,2.778e-07,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1700 C,creep rate,EXP,68.97,1255.0,6.67e-08,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1200 C,creep rate,EXP,27.59,1477.0,8.19444e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1400 C,creep rate,EXP,27.59,1477.0,2.61111e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1500 C,creep rate,EXP,27.59,1477.0,1.80556e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1700 C,creep rate,EXP,27.59,1477.0,5.833e-07,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,68.97,1255.0,5.11111e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,120.69,1255.0,0.0001708333,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,103.45,1255.0,2.63889e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,86.21,1255.0,3.4444e-06,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,68.97,1255.0,2.3056e-06,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,51.72,1477.0,0.0015,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,41.38,1477.0,0.0001972222,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,34.48,1477.0,8.13889e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,27.59,1477.0,1.875e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC,None,creep rate,EXP,20.69,1477.0,5.2778e-06,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1200 C,creep rate,EXP,86.21,1255.0,2.19444e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+HT,1 Hr at 1200 C,creep rate,EXP,34.48,1477.0,7.77778e-05,None,%/s,T9.8,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,172.41,1144.11,6.94e-08,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,172.41,1144.11,2.222e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,172.41,1144.11,2.778e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,103.45,1255.22,2.222e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,103.45,1255.22,4.167e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,103.45,1255.22,7.5e-08,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,103.45,1255.22,3.0556e-06,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,103.45,1255.22,6.111e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,86.21,1255.22,1e-09,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,86.21,1255.22,1.5e-09,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,86.21,1255.22,5.8e-09,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,86.21,1255.22,3.1e-09,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,68.97,1366.33,3.611e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,68.97,1366.33,8.06e-08,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,68.97,1366.33,4.444e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+A,Annealed at 2192 F for 1 hr in vacuum,creep rate,EXP,68.97,1366.33,3.61e-08,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,103.45,1255.22,5.556e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,120.69,1255.22,3.3333e-06,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,120.69,1255.22,1.3333e-06,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,86.21,1255.22,8e-10,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,86.21,1255.22,1.1e-09,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,86.21,1255.22,4.7e-09,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,86.21,1255.22,6.7e-09,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,68.97,1366.33,3.889e-07,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,68.97,1366.33,1.6111e-06,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,68.97,1366.33,2.3889e-06,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,AC+CW,20% cold reduction,creep rate,EXP,68.97,1366.33,1.9444e-06,None,%/s,T9.9,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A+MW,Swagged 80% at 78 F after annealing at 2500°F/1 hr,creep rate,EXP,172.38,1255.22,7.5e-06,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A+MW,Swagged 80% at 78 F after annealing at 2500°F/1 hr,creep rate,EXP,137.9,1255.22,1.16667e-05,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A+MW,Swagged 80% at 78 F after annealing at 3250°F/1 hr,creep rate,EXP,172.38,1255.22,4.16667e-05,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A+MW,Swagged 80% at 78 F after annealing at 3250°F/1 hr,creep rate,EXP,155.14,1255.22,1.33333e-05,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A+MW,Swagged 80% at 78 F after annealing at 3250°F/1 hr,creep rate,EXP,137.9,1255.22,7.7778e-06,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A,Swagged 80% at 78 F after annealing at 2500°F/1 hr,creep rate,EXP,172.38,1255.22,6.3889e-06,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A,Swagged 80% at 78 F after annealing at 2500°F/1 hr,creep rate,EXP,155.14,1255.22,5.2778e-06,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A,Swagged 80% at 78 F after annealing at 2500°F/1 hr,creep rate,EXP,137.9,1255.22,2.7778e-06,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A,Swagged 80% at 78 F after annealing at 3250°F/1 hr,creep rate,EXP,172.38,1255.22,2.38889e-05,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A,Swagged 80% at 78 F after annealing at 3250°F/1 hr,creep rate,EXP,155.14,1255.22,8.8889e-06,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+None,Nb98.9817 Zr1.01825,None,A,Swagged 80% at 78 F after annealing at 3250°F/1 hr,creep rate,EXP,137.9,1255.22,1.3889e-06,None,%/s,T9.10,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,96.25,1255.0,9.5e-09,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,131.32,1255.0,3.54e-08,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,173.86,1255.0,1.648e-07,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,244.39,1255.0,4.2651e-06,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,61.8,1366.0,4.35e-08,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,86.53,1366.0,1.024e-07,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,121.24,1366.0,3.814e-07,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,156.91,1366.0,1.9674e-06,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,40.66,1477.0,4.95e-08,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,61.76,1477.0,2.83e-07,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,85.22,1477.0,1.0055e-06,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+Cb752,Nb91.7026 W5.24545 Zr2.77621 C0.275739,None,EBM,None,creep rate,EXP,102.87,1477.0,2.7012e-06,None,%/s,F9.56,Conway_1969_CreepRuptureDataRefractoryMetals
+FS85,Nb74.7365 Ta17.1884 W7.36108 Zr0.666295 C0.0477421,None,EBM+CR,94.1% cold-rolled,creep rate,EXP,241.38,1255.22,2.5833e-06,None,%/s,T9.28,Conway_1969_CreepRuptureDataRefractoryMetals
+FS85,Nb74.7365 Ta17.1884 W7.36108 Zr0.666295 C0.0477421,None,EBM+CR,94.1% cold-rolled,creep rate,EXP,137.93,1366.33,1.2833e-06,None,%/s,T9.28,Conway_1969_CreepRuptureDataRefractoryMetals
+FS85,Nb74.7365 Ta17.1884 W7.36108 Zr0.666295 C0.0477421,None,EBM+CR,94.1% cold-rolled,creep rate,EXP,131.03,1477.44,1.425e-05,None,%/s,T9.28,Conway_1969_CreepRuptureDataRefractoryMetals
+FS85,Nb74.7365 Ta17.1884 W7.36108 Zr0.666295 C0.0477421,None,EBM+CR,94.1% cold-rolled,creep rate,EXP,89.66,1588.56,1.10833e-05,None,%/s,T9.28,Conway_1969_CreepRuptureDataRefractoryMetals
+FS85,Nb74.7365 Ta17.1884 W7.36108 Zr0.666295 C0.0477421,None,EBM+CR+A,94.1% cold-rolled. Annealed for 1 hr at 2400°F,creep rate,EXP,89.66,1588.56,9e-06,None,%/s,T9.28,Conway_1969_CreepRuptureDataRefractoryMetals
+FS85,Nb74.7365 Ta17.1884 W7.36108 Zr0.666295 C0.0477421,None,EBM+CR,94.1% cold-rolled,creep rate,EXP,68.97,1699.67,1.15e-05,None,%/s,T9.28,Conway_1969_CreepRuptureDataRefractoryMetals
+FS85,Nb74.7365 Ta17.1884 W7.36108 Zr0.666295 C0.0477421,None,EBM+CR+A,94.1% cold-rolled. Annealed for 1 hr at 2400°F,creep rate,EXP,68.97,1699.67,9.5833e-06,None,%/s,T9.28,Conway_1969_CreepRuptureDataRefractoryMetals
+FS82,Nb79.5785 Ta19.4567 Zr0.964835,None,SR,None,creep rate,EXP,243.38,1255.22,1.1908e-06,None,%/s,F9.82,Conway_1969_CreepRuptureDataRefractoryMetals
+FS82,Nb79.5785 Ta19.4567 Zr0.964835,None,SR,None,creep rate,EXP,282.28,1255.22,1.7198e-06,None,%/s,F9.82,Conway_1969_CreepRuptureDataRefractoryMetals
+FS82,Nb79.5785 Ta19.4567 Zr0.964835,None,SR,None,creep rate,EXP,357.83,1255.22,7.6024e-06,None,%/s,F9.82,Conway_1969_CreepRuptureDataRefractoryMetals
+FS82,Nb79.5785 Ta19.4567 Zr0.964835,None,SR,None,creep rate,EXP,126.4,1366.33,1.1532e-06,None,%/s,F9.82,Conway_1969_CreepRuptureDataRefractoryMetals
+FS82,Nb79.5785 Ta19.4567 Zr0.964835,None,SR,None,creep rate,EXP,164.01,1366.33,3.4795e-06,None,%/s,F9.82,Conway_1969_CreepRuptureDataRefractoryMetals
+FS82,Nb79.5785 Ta19.4567 Zr0.964835,None,SR,None,creep rate,EXP,90.95,1477.44,4.8083e-06,None,%/s,F9.82,Conway_1969_CreepRuptureDataRefractoryMetals
