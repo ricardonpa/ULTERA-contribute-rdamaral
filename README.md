@@ -71,7 +71,7 @@ Datapoints: 682
 Comment: None
 ```
 
-**Last time updated:** 04-03-2025 08:09pm
+**Last time updated:** 04-14-2025 02:47pm
 
 ## The ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the [**DOE ARPA-E ULTIMATE program**](https://arpa-e.energy.gov/?q=arpa-e-programs/ultimate) that aims to develop a new generation of materials for turbine blades in gas turbines and related applications. 

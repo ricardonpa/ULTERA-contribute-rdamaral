@@ -142,44 +142,44 @@ W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,6.82,2873.
 W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,8.01,2873.0,2.96043e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
 W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,9.95,2873.0,6.85278e-05,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
 W-25Re,W75.2391 Re24.7609,None,PMP,Sintered at 2400°C,creep rate,EXP,4.35,3073.0,4.9749e-06,None,%/s,P8.85,Boyer_1988_AtlasOfCreep
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,136.68,1253.0,1.768e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,171.07,1253.0,4.014e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,204.84,1253.0,9.017e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,272.84,1253.0,4.3474e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,306.41,1253.0,1.07726e-05,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,60.82,1363.0,9.4e-08,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,85.53,1363.0,4.062e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,102.96,1363.0,7.441e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,119.62,1363.0,2.3129e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,169.14,1363.0,8.0507e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,34.21,1477.0,9.71e-08,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,41.24,1477.0,1.037e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,55.27,1477.0,2.646e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,61.81,1477.0,4.802e-07,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,85.28,1477.0,1.633e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,102.68,1477.0,2.7503e-06,None,%/s,F19,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,137.8,1253.0,1.78e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,150.63,1253.0,3.93e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,153.85,1253.0,5.13e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,172.62,1253.0,1.356e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,187.7,1253.0,2.785e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,235.11,1253.0,1.9962e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,90.02,1363.0,2.14e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,104.11,1363.0,4.44e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,103.07,1363.0,4.85e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,119.34,1363.0,1.758e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,122.01,1363.0,3.481e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,154.0,1363.0,7.888e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,152.52,1363.0,1.0554e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,170.23,1363.0,2.619e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,44.72,1477.0,1.15e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,55.89,1477.0,3.23e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,62.33,1477.0,5.35e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,61.73,1477.0,6.98e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,68.09,1477.0,8.97e-08,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,86.04,1477.0,3.372e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,102.63,1477.0,7.091e-07,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
-D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,119.42,1477.0,2.3523e-06,None,%/s,F6,Stephenson_1967_ComparativeCreep-RuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,136.68,1253.0,1.768e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,171.07,1253.0,4.014e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,204.84,1253.0,9.017e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,272.84,1253.0,4.3474e-06,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,306.41,1253.0,1.07726e-05,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,60.82,1363.0,9.4e-08,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,85.53,1363.0,4.062e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,102.96,1363.0,7.441e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,119.62,1363.0,2.3129e-06,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,169.14,1363.0,8.0507e-06,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,34.21,1477.0,9.71e-08,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,41.24,1477.0,1.037e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,55.27,1477.0,2.646e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,61.81,1477.0,4.802e-07,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,85.28,1477.0,1.633e-06,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+B-66 Alloy,Nb85.594 V8.76995 Mo4.6566 Zr0.979467,None,A+CR,Cold rolled 50% after anneal,creep rate,EXP,102.68,1477.0,2.7503e-06,None,%/s,F19,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,137.8,1253.0,1.78e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,150.63,1253.0,3.93e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,153.85,1253.0,5.13e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,172.62,1253.0,1.356e-07,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,187.7,1253.0,2.785e-07,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,235.11,1253.0,1.9962e-06,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,90.02,1363.0,2.14e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,104.11,1363.0,4.44e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,103.07,1363.0,4.85e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,119.34,1363.0,1.758e-07,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,122.01,1363.0,3.481e-07,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,154.0,1363.0,7.888e-07,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,152.52,1363.0,1.0554e-06,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,170.23,1363.0,2.619e-06,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,44.72,1477.0,1.15e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,55.89,1477.0,3.23e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,62.33,1477.0,5.35e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,61.73,1477.0,6.98e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,68.09,1477.0,8.97e-08,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,86.04,1477.0,3.372e-07,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,102.63,1477.0,7.091e-07,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
+D-43,Nb92.8502 W5.27821 Zr1.0637 C0.807901,None,HE+HR+CR+SR,Stress relieved (1204 C) after final rolling,creep rate,EXP,119.42,1477.0,2.3523e-06,None,%/s,F6,Stephenson_1967_ComparativeCreepRuptureProperties 
 Mo,Mo100,None,PMP+MW,None,creep rate,EXP,78.55,1873.0,0.0004752781,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
 Mo,Mo100,None,PMP+MW,None,creep rate,EXP,49.84,1923.0,4.92357e-05,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
 Mo,Mo100,None,PMP+MW,None,creep rate,EXP,56.76,1923.0,0.0001432905,None,%/s,F82,10.31399/asm.hb.v02.9781627081627
